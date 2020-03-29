@@ -1,0 +1,1406 @@
+type,id,bnf_code,nm
+amp,34681611000001100,0301011ABBBAAA0,Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler (Chiesi Ltd)
+vmp,34683311000001106,0301011ABBBAAA0,Generic Trimbow 87micrograms/dose / 5micrograms/dose / 9micrograms/dose inhaler
+vmp,320258002,0301011B0AAAAAA,Bambuterol 10mg tablets
+vmp,320259005,0301011B0AAABAB,Bambuterol 20mg tablets
+amp,375711000001100,0301011B0BBAAAA,Bambec 10mg tablets (AstraZeneca UK Ltd)
+amp,809411000001102,0301011B0BBABAB,Bambec 20mg tablets (AstraZeneca UK Ltd)
+vmp,12626211000001108,0301011E0AAAAAA,Formoterol 12microgram inhalation powder capsules with device
+vmp,320263003,0301011E0AAABAB,Formoterol 6micrograms/dose dry powder inhaler
+vmp,320264009,0301011E0AAACAC,Formoterol 12micrograms/dose dry powder inhaler
+vmp,9652711000001107,0301011E0AAADAD,Formoterol 12micrograms/dose inhaler CFC free
+amp,3206811000001109,0301011E0BBAAAA,Foradil 12microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd)
+amp,3243511000001107,0301011E0BCAAAB,Oxis 6 Turbohaler (AstraZeneca UK Ltd)
+amp,3245011000001103,0301011E0BCABAC,Oxis 12 Turbohaler (AstraZeneca UK Ltd)
+amp,9628711000001106,0301011E0BDAAAD,Atimos Modulite 12micrograms/dose inhaler (Chiesi Ltd)
+amp,11176411000001106,0301011E0BEAAAE,Formoterol Easyhaler 12micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+vmp,4558411000001107,0301011F0AAAAAA,Fenoterol 200micrograms/dose inhaler
+amp,4537611000001107,0301011F0BBACAA,Berotec 200micrograms/dose inhaler (Boehringer Ingelheim Ltd)
+amp,3408611000001107,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler (A A H Pharmaceuticals Ltd)
+amp,3410611000001106,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler (Mylan)
+amp,3412611000001107,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler (Kent Pharmaceuticals Ltd)
+amp,3415711000001107,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler (Sandoz Ltd)
+amp,3417111000001102,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd)
+amp,10432311000001108,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler (Arrow Generics Ltd)
+vmp,35936511000001108,0301011R0AAAAAA,Salbutamol 100micrograms/dose inhaler
+vmp,35936411000001109,0301011R0AAADAD,Salbutamol 100micrograms/dose breath actuated inhaler
+vmp,35937211000001107,0301011R0AAAFAF,Salbutamol 95micrograms/dose dry powder inhaler
+vmp,35936711000001103,0301011R0AAAIAI,Salbutamol 200microgram inhalation powder blisters with device
+vmp,35936911000001101,0301011R0AAAJAJ,Salbutamol 400microgram inhalation powder blisters with device
+vmp,35936611000001107,0301011R0AAAKAK,Salbutamol 200microgram inhalation powder blisters
+vmp,35936811000001106,0301011R0AAALAL,Salbutamol 400microgram inhalation powder blisters
+amp,7511000001105,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free (Actavis UK Ltd)
+amp,45111000001100,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free (Mylan)
+amp,757611000001104,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free (Teva UK Ltd)
+amp,18041311000001106,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free (Sandoz Ltd)
+vmp,320139002,0301011R0AAAPAP,Salbutamol 100micrograms/dose inhaler CFC free
+vmp,320141001,0301011R0AAAQAQ,Salbutamol 200micrograms/dose dry powder inhaler
+vmp,320118009,0301011R0AAAUAU,Salbutamol 500micrograms/1ml solution for injection ampoules
+vmp,320178003,0301011R0AAAVAV,Salbutamol 200microgram inhalation powder capsules
+vmp,320179006,0301011R0AAAWAW,Salbutamol 400microgram inhalation powder capsules
+amp,3385711000001103,0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd)
+amp,3386811000001103,0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Mylan)
+amp,9102311000001103,0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Teva UK Ltd)
+amp,10453811000001108,0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+amp,11006511000001106,0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Accord Healthcare Ltd)
+amp,12880611000001109,0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd)
+amp,17026511000001100,0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+amp,17927211000001106,0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd)
+amp,18080711000001105,0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Fannin UK Ltd)
+amp,30891911000001100,0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd)
+vmp,320177008,0301011R0AAAXAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose vials
+amp,161811000001109,0301011R0AAAZAZ,Salbutamol 2mg tablets (Kent Pharmaceuticals Ltd)
+amp,287611000001100,0301011R0AAAZAZ,Salbutamol 2mg tablets (Approved Prescription Services Ltd)
+amp,506611000001108,0301011R0AAAZAZ,Salbutamol 2mg tablets (Actavis UK Ltd)
+amp,659111000001106,0301011R0AAAZAZ,Salbutamol 2mg tablets (A A H Pharmaceuticals Ltd)
+amp,921311000001107,0301011R0AAAZAZ,Salbutamol 2mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,21895211000001100,0301011R0AAAZAZ,Salbutamol 2mg tablets (Waymade Healthcare Plc)
+amp,30094911000001103,0301011R0AAAZAZ,Salbutamol 2mg tablets (DE Pharmaceuticals)
+vmp,320106000,0301011R0AAAZAZ,Salbutamol 2mg tablets
+amp,52811000001102,0301011R0AABABA,Salbutamol 4mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,194411000001107,0301011R0AABABA,Salbutamol 4mg tablets (Actavis UK Ltd)
+amp,258311000001100,0301011R0AABABA,Salbutamol 4mg tablets (Kent Pharmaceuticals Ltd)
+amp,262711000001105,0301011R0AABABA,Salbutamol 4mg tablets (A A H Pharmaceuticals Ltd)
+amp,273911000001107,0301011R0AABABA,Salbutamol 4mg tablets (Approved Prescription Services Ltd)
+amp,21895411000001101,0301011R0AABABA,Salbutamol 4mg tablets (Waymade Healthcare Plc)
+amp,30095111000001102,0301011R0AABABA,Salbutamol 4mg tablets (DE Pharmaceuticals)
+vmp,320104002,0301011R0AABABA,Salbutamol 4mg tablets
+vmp,320180009,0301011R0AABBBB,Salbutamol 5mg/ml nebuliser liquid
+vmp,320119001,0301011R0AABCBC,Salbutamol 5mg/5ml solution for infusion ampoules
+amp,3379611000001104,0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd)
+amp,3381111000001101,0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Mylan)
+amp,9102511000001109,0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Teva UK Ltd)
+amp,10454011000001100,0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+amp,11006711000001101,0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Actavis UK Ltd)
+amp,12880811000001108,0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd)
+amp,17026711000001105,0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+amp,17927411000001105,0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd)
+amp,18080911000001107,0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Fannin UK Ltd)
+amp,30892111000001108,0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd)
+vmp,320171009,0301011R0AABDBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose vials
+vmp,320096005,0301011R0AABEBE,Salbutamol 4mg modified-release tablets
+vmp,35937111000001101,0301011R0AABFBF,Salbutamol 8mg modified-release tablets
+amp,161111000001102,0301011R0AABGBG,Salbutamol 2mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)
+amp,221511000001100,0301011R0AABGBG,Salbutamol 2mg/5ml oral solution sugar free (Sandoz Ltd)
+amp,803911000001107,0301011R0AABGBG,Salbutamol 2mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd)
+amp,896511000001106,0301011R0AABGBG,Salbutamol 2mg/5ml oral solution sugar free (Kent Pharmaceuticals Ltd)
+amp,13626311000001105,0301011R0AABGBG,Salbutamol 2mg/5ml oral solution sugar free (Pinewood Healthcare)
+vmp,320108004,0301011R0AABGBG,Salbutamol 2mg/5ml oral solution sugar free
+vmp,320099003,0301011R0AABMBM,Salbutamol 4mg modified-release capsules
+vmp,320100006,0301011R0AABPBP,Salbutamol 8mg modified-release capsules
+vmp,320151000,0301011R0AABUBU,Salbutamol 100micrograms/dose breath actuated inhaler CFC free
+amp,4889111000001103,0301011R0AABVBV,Salbutamol 5mg/50ml solution for infusion vials (Martindale Pharmaceuticals Ltd)
+vmp,35937011000001102,0301011R0AABVBV,Salbutamol 5mg/50ml solution for infusion vials
+vmp,9207411000001106,0301011R0AABZBZ,Salbutamol 100micrograms/dose dry powder inhaler
+vmp,13566211000001103,0301011R0AACBCB,Salbutamol 100micrograms/dose dry powder inhalation cartridge with device
+vmp,13566111000001109,0301011R0AACCCC,Salbutamol 100micrograms/dose dry powder inhalation cartridge
+amp,840111000001107,0301011R0BDAEAP,Salbulin 100micrograms/dose inhaler (3M Health Care Ltd)
+amp,3382711000001107,0301011R0BEAHAQ,Ventolin 200micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd)
+amp,222311000001102,0301011R0BEAIAP,Ventolin 100micrograms/dose Evohaler (GlaxoSmithKline UK Ltd)
+amp,892011000001102,0301011R0BEAMBG,Ventolin 2mg/5ml syrup (GlaxoSmithKline UK Ltd)
+amp,3387011000001107,0301011R0BEANAX,Ventolin 2.5mg Nebules (GlaxoSmithKline UK Ltd)
+amp,3214211000001100,0301011R0BEAPAV,Ventolin 200microgram Rotacaps (GlaxoSmithKline UK Ltd)
+amp,3218011000001101,0301011R0BEAQAW,Ventolin 400microgram Rotacaps (GlaxoSmithKline UK Ltd)
+amp,4843911000001107,0301011R0BEARBB,Ventolin 5mg/ml respirator solution (GlaxoSmithKline UK Ltd)
+amp,3926911000001108,0301011R0BEATAU,Ventolin 500micrograms/1ml solution for injection ampoules (GlaxoSmithKline UK Ltd)
+amp,886111000001103,0301011R0BEAUBC,Ventolin 5mg/5ml solution for infusion ampoules (GlaxoSmithKline UK Ltd)
+amp,3381811000001108,0301011R0BEAXBD,Ventolin 5mg Nebules (GlaxoSmithKline UK Ltd)
+amp,3386411000001100,0301011R0BGABAX,Maxivent 2.5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd)
+amp,3380811000001100,0301011R0BGACBD,Maxivent 5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd)
+amp,3387511000001104,0301011R0BIADAX,Salamol 2.5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd)
+amp,3383511000001109,0301011R0BIAEBD,Salamol 5mg/2.5ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd)
+amp,106511000001103,0301011R0BIAFAP,Salamol 100micrograms/dose inhaler CFC free (Teva UK Ltd)
+amp,3215311000001107,0301011R0BIAGBU,Salamol 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd)
+amp,20434411000001107,0301011R0BIAHAP,Salamol 100micrograms/dose inhaler CFC free (Arrow Generics Ltd)
+amp,3186011000001104,0301011R0BJABAF,Asmasal 95micrograms/dose Clickhaler (Focus Pharmaceuticals Ltd)
+amp,3293111000001105,0301011R0BKADAD,Aerolin 100micrograms/dose Autohaler (3M Health Care Ltd)
+amp,3080411000001101,0301011R0BLAAAI,Ventodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd)
+amp,3086111000001109,0301011R0BLABAK,Ventodisks 200microgram (GlaxoSmithKline UK Ltd)
+amp,3083011000001100,0301011R0BLACAJ,Ventodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd)
+amp,3089011000001102,0301011R0BLADAL,Ventodisks 400microgram (GlaxoSmithKline UK Ltd)
+amp,597011000001101,0301011R0BMAAAP,Airomir 100micrograms/dose inhaler (Teva UK Ltd)
+amp,3214311000001108,0301011R0BMABBU,Airomir 100micrograms/dose Autohaler (Teva UK Ltd)
+amp,196411000001104,0301011R0BNAABE,Volmax 4mg modified-release tablets (GlaxoSmithKline UK Ltd)
+amp,831811000001109,0301011R0BNABBF,Volmax 8mg modified-release tablets (GlaxoSmithKline UK Ltd)
+amp,3214611000001103,0301011R0BPACAV,Salbutamol 200 Cyclocaps (Teva UK Ltd)
+amp,3217611000001109,0301011R0BPADAW,Salbutamol 400 Cyclocaps (Teva UK Ltd)
+amp,626411000001107,0301011R0BSAABM,Ventmax SR 4mg capsules (Chiesi Ltd)
+amp,281511000001105,0301011R0BSABBP,Ventmax SR 8mg capsules (Chiesi Ltd)
+amp,3384111000001103,0301011R0BTAABX,Pulvinal Salbutamol 200micrograms/dose dry powder inhaler (Chiesi Ltd)
+amp,650211000001107,0301011R0BUAABG,Salapin 2mg/5ml syrup (Pinewood Healthcare)
+amp,9040011000001103,0301011R0BVAAAX,Salbutamol 2.5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Galen Ltd)
+amp,9040211000001108,0301011R0BVABBD,Salbutamol 5mg/2.5ml nebuliser liquid unit dose Steripoule vials (Galen Ltd)
+amp,9205211000001104,0301011R0BWAABZ,Easyhaler Salbutamol sulfate 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+amp,9204911000001109,0301011R0BWABCA,Easyhaler Salbutamol sulfate 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+amp,13533511000001104,0301011R0BXAACB,Salbulin Novolizer 100micrograms/dose inhalation powder (Mylan)
+amp,13533711000001109,0301011R0BXABCC,Salbulin Novolizer 100micrograms/dose inhalation powder refill (Mylan)
+amp,18148111000001107,0301011R0BYAAAP,Asmavent 100micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd)
+amp,22503111000001109,0301011R0BZAAAP,AirSalb 100micrograms/dose inhaler CFC free (Sandoz Ltd)
+vmp,35937811000001108,0301011U0AAAAAA,Salmeterol 50microgram inhalation powder blisters with device
+vmp,35938011000001101,0301011U0AAABAB,Salmeterol 50microgram inhalation powder blisters
+vmp,320244004,0301011U0AAACAC,Salmeterol 25micrograms/dose inhaler
+vmp,320250009,0301011U0AAAEAE,Salmeterol 50micrograms/dose dry powder inhaler
+vmp,10075611000001101,0301011U0AAAHAH,Salmeterol 25micrograms/dose inhaler CFC free
+amp,3084011000001103,0301011U0BBAAAA,Serevent 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd)
+amp,3082411000001100,0301011U0BBABAB,Serevent 50microgram disks (GlaxoSmithKline UK Ltd)
+amp,408911000001105,0301011U0BBACAC,Serevent 25micrograms/dose inhaler (GlaxoSmithKline UK Ltd)
+amp,3380111000001107,0301011U0BBAEAE,Serevent 50micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd)
+amp,10073011000001107,0301011U0BBAFAH,Serevent 25micrograms/dose Evohaler (GlaxoSmithKline UK Ltd)
+amp,19562111000001107,0301011U0BDAAAH,Neovent 25micrograms/dose inhaler CFC free (Teva UK Ltd)
+amp,19568411000001100,0301011U0BEAAAH,Neovent 25micrograms/dose inhaler CFC free (Kent Pharmaceuticals Ltd)
+amp,22650111000001100,0301011U0BFAAAH,Vertine 25micrograms/dose inhaler CFC free (Teva UK Ltd)
+amp,33561211000001109,0301011U0BGAAAH,Soltel 25micrograms/dose inhaler CFC free (Cipla EU Ltd)
+vmp,320206008,0301011V0AAAAAA,Terbutaline 250micrograms/dose inhaler
+vmp,35916211000001103,0301011V0AAABAB,Terbutaline 500micrograms/1ml solution for injection ampoules
+amp,9111011000001106,0301011V0AAADAD,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Galen Ltd)
+amp,11150411000001106,0301011V0AAADAD,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Accord Healthcare Ltd)
+amp,11256611000001108,0301011V0AAADAD,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd)
+amp,12062211000001109,0301011V0AAADAD,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+amp,17661711000001102,0301011V0AAADAD,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+amp,21787311000001103,0301011V0AAADAD,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc)
+amp,22355111000001103,0301011V0AAADAD,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (AM Distributions (Yorkshire) Ltd)
+amp,30924211000001107,0301011V0AAADAD,Terbutaline 5mg/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd)
+vmp,3654411000001106,0301011V0AAADAD,Terbutaline 5mg/2ml nebuliser liquid unit dose vials
+vmp,35916111000001109,0301011V0AAAFAF,Terbutaline 250micrograms/dose inhaler with spacer
+amp,225511000001102,0301011V0AAAGAG,Terbutaline 1.5mg/5ml oral solution sugar free (Kent Pharmaceuticals Ltd)
+amp,248411000001109,0301011V0AAAGAG,Terbutaline 1.5mg/5ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd)
+amp,9239411000001108,0301011V0AAAGAG,Terbutaline 1.5mg/5ml oral solution sugar free (A A H Pharmaceuticals Ltd)
+vmp,35915911000001100,0301011V0AAAGAG,Terbutaline 1.5mg/5ml oral solution sugar free
+vmp,320203000,0301011V0AAAHAH,Terbutaline 5mg tablets
+vmp,35916411000001104,0301011V0AAAIAI,Terbutaline 7.5mg modified-release tablets
+vmp,35916011000001108,0301011V0AAAKAK,Terbutaline 2.5mg/5ml solution for injection ampoules
+vmp,320200002,0301011V0AAAXAX,Terbutaline 10mg/ml nebuliser liquid
+amp,28194211000001100,0301011V0AABABA,Terbutaline 7.5mg/15ml solution for infusion pre-filled syringes (Special Order)
+vmp,28279711000001100,0301011V0AABABA,Terbutaline 7.5mg/15ml solution for infusion pre-filled syringes
+vmp,35916311000001106,0301011V0AABBBB,Terbutaline 500micrograms/dose dry powder inhaler
+amp,738811000001100,0301011V0BBAAAH,Bricanyl 5mg tablets (AstraZeneca UK Ltd)
+amp,726111000001105,0301011V0BBABAG,Bricanyl 1.5mg/5ml syrup (AstraZeneca UK Ltd)
+amp,691211000001105,0301011V0BBACAB,Bricanyl 500micrograms/1ml solution for injection ampoules (AstraZeneca UK Ltd)
+amp,3248011000001106,0301011V0BBADAA,Bricanyl 250micrograms/dose inhaler (AstraZeneca UK Ltd)
+amp,3248711000001108,0301011V0BBAFAF,Bricanyl 250micrograms/dose spacer inhaler (AstraZeneca UK Ltd)
+amp,101011000001104,0301011V0BBAJAK,Bricanyl 2.5mg/5ml solution for injection ampoules (AstraZeneca UK Ltd)
+amp,3633911000001104,0301011V0BBALAD,Bricanyl 5mg/2ml Respules (AstraZeneca UK Ltd)
+amp,364811000001103,0301011V0BBANAI,Bricanyl SA 7.5mg tablets (AstraZeneca UK Ltd)
+amp,2831711000001102,0301011V0BBAQAX,Bricanyl 10mg/ml respirator solution (AstraZeneca UK Ltd)
+amp,3218311000001103,0301011V0BBARBB,Bricanyl 500micrograms/dose Turbohaler (AstraZeneca UK Ltd)
+amp,28011000001107,0301011V0BDABAG,Monovent 1.5mg/5ml syrup (Sandoz Ltd)
+vmp,17313711000001107,0301011X0AAAAAA,Indacaterol 150microgram inhalation powder capsules with device
+vmp,17313811000001104,0301011X0AAABAB,Indacaterol 300microgram inhalation powder capsules with device
+amp,17300811000001109,0301011X0BBAAAA,Onbrez Breezhaler 150microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd)
+amp,17299911000001102,0301011X0BBABAB,Onbrez Breezhaler 300microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd)
+vmp,24670111000001108,0301011Z0AAAAAA,Olodaterol 2.5micrograms/dose solution for inhalation cartridge with device CFC free
+vmp,37692311000001106,0301011Z0AAABAB,Olodaterol 2.5micrograms/dose inhalation solution cartridge CFC free
+amp,24608011000001103,0301011Z0BBAAAA,Striverdi Respimat 2.5micrograms/dose inhalation solution cartridge with device (Boehringer Ingelheim Ltd)
+amp,37678311000001100,0301011Z0BBABAB,Striverdi Respimat 2.5micrograms/dose inhalation solution refill cartridge (Boehringer Ingelheim Ltd)
+vmp,10514511000001106,0301012A0AAABAB,Adrenaline (base) 220micrograms/dose inhaler
+vmp,10525011000001107,0301012A0AAACAC,Adrenaline (base) 220micrograms/dose inhaler refill
+amp,10514711000001101,0301012A0BCABAB,Primatene Mist 220micrograms/dose inhaler (Imported (United States))
+amp,10525611000001100,0301012A0BCACAC,Primatene Mist 220micrograms/dose inhaler refill (Imported (United States))
+amp,20711000001107,0301012F0AAAAAA,Ephedrine hydrochloride 15mg tablets (Kent Pharmaceuticals Ltd)
+amp,104411000001105,0301012F0AAAAAA,Ephedrine hydrochloride 15mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,211111000001103,0301012F0AAAAAA,Ephedrine hydrochloride 15mg tablets (A A H Pharmaceuticals Ltd)
+amp,263011000001104,0301012F0AAAAAA,Ephedrine hydrochloride 15mg tablets (Wockhardt UK Ltd)
+amp,29849611000001101,0301012F0AAAAAA,Ephedrine hydrochloride 15mg tablets (Sigma Pharmaceuticals Plc)
+vmp,320296001,0301012F0AAAAAA,Ephedrine hydrochloride 15mg tablets
+amp,97411000001105,0301012F0AAABAB,Ephedrine hydrochloride 30mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,485911000001100,0301012F0AAABAB,Ephedrine hydrochloride 30mg tablets (A A H Pharmaceuticals Ltd)
+amp,663911000001102,0301012F0AAABAB,Ephedrine hydrochloride 30mg tablets (Kent Pharmaceuticals Ltd)
+amp,897511000001108,0301012F0AAABAB,Ephedrine hydrochloride 30mg tablets (Wockhardt UK Ltd)
+amp,29849811000001102,0301012F0AAABAB,Ephedrine hydrochloride 30mg tablets (Sigma Pharmaceuticals Plc)
+vmp,320297005,0301012F0AAABAB,Ephedrine hydrochloride 30mg tablets
+amp,75411000001109,0301012F0AAADAD,Ephedrine 15mg/5ml elixir (A A H Pharmaceuticals Ltd)
+vmp,36072011000001107,0301012F0AAADAD,Ephedrine 15mg/5ml elixir
+vmp,36072311000001105,0301012F0AAALAL,Ephedrine 4mg/5ml oral solution sugar free
+amp,8464511000001101,0301012F0AAAUAU,Ephedrine 15mg/5ml oral suspension (Special Order)
+vmp,8487511000001107,0301012F0AAAUAU,Ephedrine 15mg/5ml oral suspension
+amp,12259911000001107,0301012F0AAAVAV,Ephedrine 4mg/5ml oral solution (Special Order)
+vmp,12294411000001109,0301012F0AAAVAV,Ephedrine 4mg/5ml oral solution
+amp,900911000001105,0301012F0BBAAAL,CAM Mixture (Cambridge Healthcare Supplies Ltd)
+vmp,320324008,0301012S0AAAFAF,Orciprenaline 20mg tablets
+vmp,36022711000001108,0301012S0AAAGAG,Orciprenaline 10mg/5ml oral solution sugar free
+amp,897211000001105,0301012S0BBAAAF,Alupent 20mg tablets (Boehringer Ingelheim Ltd)
+amp,599311000001108,0301012S0BBABAG,Alupent 10mg/5ml syrup (Boehringer Ingelheim Ltd)
+vmp,36049311000001103,0301020I0AAAAAA,Ipratropium bromide 20micrograms/dose inhaler
+amp,3221011000001103,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd)
+amp,3222711000001108,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (The Boots Company Plc)
+amp,3223511000001105,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+amp,8097811000001100,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd)
+amp,9102111000001100,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Teva UK Ltd)
+amp,10453611000001109,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+amp,11006311000001100,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Accord Healthcare Ltd)
+amp,15214311000001101,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc)
+amp,17933311000001107,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd)
+amp,21720011000001109,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Advanz Pharma)
+amp,22062511000001106,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc)
+amp,23949311000001100,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (DE Pharmaceuticals)
+amp,30215011000001107,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd)
+vmp,320347009,0301020I0AAACAC,Ipratropium bromide 500micrograms/2ml nebuliser liquid unit dose vials
+vmp,36049411000001105,0301020I0AAADAD,Ipratropium bromide 40micrograms/dose inhaler
+amp,3225311000001103,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd)
+amp,3226811000001104,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (The Boots Company Plc)
+amp,3227511000001100,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+amp,8097311000001109,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd)
+amp,9101911000001108,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Teva UK Ltd)
+amp,10453411000001106,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+amp,11006111000001102,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Accord Healthcare Ltd)
+amp,15213511000001109,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc)
+amp,17933111000001105,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd)
+amp,21719511000001100,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Advanz Pharma)
+amp,22062311000001100,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (Waymade Healthcare Plc)
+amp,23949111000001102,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials (DE Pharmaceuticals)
+vmp,320346000,0301020I0AAAFAF,Ipratropium bromide 250micrograms/1ml nebuliser liquid unit dose vials
+vmp,36049211000001106,0301020I0AAAGAG,Ipratropium bromide 20micrograms/dose breath actuated inhaler
+vmp,320340006,0301020I0AAAHAH,Ipratropium bromide 40microgram inhalation powder capsules with device
+vmp,320339009,0301020I0AAAIAI,Ipratropium bromide 40microgram inhalation powder capsules
+amp,27872911000001109,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free (A A H Pharmaceuticals Ltd)
+vmp,414538008,0301020I0AAANAN,Ipratropium bromide 20micrograms/dose inhaler CFC free
+amp,24011000001103,0301020I0BBAAAA,Atrovent 20micrograms/dose inhaler (Boehringer Ingelheim Ltd)
+amp,3222411000001102,0301020I0BBACAC,Atrovent 500micrograms/2ml nebuliser liquid UDVs (Boehringer Ingelheim Ltd)
+amp,347611000001103,0301020I0BBADAD,Atrovent Forte 40micrograms/dose inhaler (Boehringer Ingelheim Ltd)
+amp,3226411000001101,0301020I0BBAFAF,Atrovent 250micrograms/1ml nebuliser liquid UDVs (Boehringer Ingelheim Ltd)
+amp,351411000001106,0301020I0BBAGAG,Atrovent 20micrograms/dose Autohaler (Boehringer Ingelheim Ltd)
+amp,3238911000001106,0301020I0BBAHAH,Atrovent 40microgram Aerocaps with Aerohaler (Boehringer Ingelheim Ltd)
+amp,3235911000001100,0301020I0BBAIAI,Atrovent 40microgram Aerocaps (Boehringer Ingelheim Ltd)
+amp,7389911000001105,0301020I0BBAJAN,Atrovent 20micrograms/dose inhaler CFC free (Boehringer Ingelheim Ltd)
+amp,3227211000001103,0301020I0BEAAAF,Ipratropium 250micrograms/1ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd)
+amp,3223111000001101,0301020I0BEABAC,Ipratropium 500micrograms/2ml nebuliser liquid Steri-Neb unit dose vials (Teva UK Ltd)
+amp,3225811000001107,0301020I0BFAAAF,Tropiovent 250micrograms/1ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd)
+amp,3221911000001104,0301020I0BFABAC,Tropiovent 500micrograms/2ml nebuliser liquid unit dose Steripoule vials (Ashbourne Pharmaceuticals Ltd)
+amp,3227011000001108,0301020I0BGAAAF,Respontin 250micrograms/1ml Nebules (GlaxoSmithKline UK Ltd)
+amp,3222911000001105,0301020I0BGABAC,Respontin 500micrograms/2ml Nebules (GlaxoSmithKline UK Ltd)
+amp,9039611000001103,0301020I0BHAAAF,Ipratropium 250micrograms/1ml nebuliser liquid unit dose Steripoule vials (Galen Ltd)
+amp,9039811000001104,0301020I0BHABAC,Ipratropium 500micrograms/2ml nebuliser liquid unit dose Steripoule vials (Galen Ltd)
+amp,34954811000001109,0301020I0BIAAAN,Inhalvent 20micrograms/dose inhaler (Alissa Healthcare Research Ltd)
+amp,37842911000001109,0301020I0BJAAAN,Ipravent 20micrograms/dose inhaler CFC free (Cipla EU Ltd)
+vmp,36022911000001105,0301020P0AAAAAA,Oxitropium bromide 100micrograms/dose inhaler
+vmp,36022811000001100,0301020P0AAABAB,Oxitropium bromide 100micrograms/dose breath actuated inhaler
+amp,2944211000001101,0301020P0BBAAAA,Oxivent 100micrograms/dose inhaler (Boehringer Ingelheim Ltd)
+amp,2947411000001107,0301020P0BBABAB,Oxivent 100micrograms/dose Autohaler (Boehringer Ingelheim Ltd)
+vmp,9479011000001103,0301020Q0AAAAAA,Tiotropium bromide 18microgram inhalation powder capsules with device
+vmp,9478911000001107,0301020Q0AAABAB,Tiotropium bromide 18microgram inhalation powder capsules
+vmp,12197411000001102,0301020Q0AAACAC,Tiotropium bromide 2.5micrograms/dose solution for inhalation cartridge with device CFC free
+vmp,33596311000001107,0301020Q0AAADAD,Tiotropium bromide 10microgram inhalation powder capsules with device
+vmp,37692711000001105,0301020Q0AAAEAE,Tiotropium bromide 2.5micrograms/dose inhalation solution cartridge CFC free
+amp,3378211000001106,0301020Q0BBAAAA,Spiriva 18microgram inhalation powder capsules with HandiHaler (Boehringer Ingelheim Ltd)
+amp,3380011000001106,0301020Q0BBABAB,Spiriva 18microgram inhalation powder capsules (Boehringer Ingelheim Ltd)
+amp,12146911000001103,0301020Q0BBACAC,Spiriva Respimat 2.5micrograms/dose inhalation solution cartridge with device (Boehringer Ingelheim Ltd)
+amp,37677711000001102,0301020Q0BBADAE,Spiriva Respimat 2.5micrograms/dose inhalation solution refill cartridge (Boehringer Ingelheim Ltd)
+amp,33594911000001100,0301020Q0BCAAAD,Braltus 10microgram inhalation powder capsules with Zonda inhaler (Teva UK Ltd)
+vmp,703924000,0301020R0AAAAAA,Aclidinium bromide 375micrograms/dose dry powder inhaler
+amp,20985511000001101,0301020R0BBAAAA,Eklira 322micrograms/dose Genuair (AstraZeneca UK Ltd)
+vmp,21496211000001102,0301020S0AAAAAA,Glycopyrronium bromide 55microgram inhalation powder capsules with device
+amp,21495411000001107,0301020S0BBAAAA,Seebri Breezhaler 44microgram inhalation powder capsules with device (Novartis Pharmaceuticals UK Ltd)
+vmp,27890611000001109,0301020T0AAAAAA,Umeclidinium bromide 65micrograms/dose dry powder inhaler
+amp,27567911000001101,0301020T0BBAAAA,Incruse Ellipta 55micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd)
+amp,3175711000001102,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler (A A H Pharmaceuticals Ltd)
+amp,3175911000001100,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler (Mylan)
+amp,3176711000001105,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler (Kent Pharmaceuticals Ltd)
+amp,3177111000001107,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd)
+amp,4773611000001100,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler (Teva UK Ltd)
+amp,11400011000001108,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler (Almus Pharmaceuticals Ltd)
+amp,17793411000001101,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler (Phoenix Healthcare Distribution Ltd)
+vmp,35909511000001107,0302000C0AAAAAA,Beclometasone 50micrograms/dose inhaler
+amp,3178211000001102,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler (A A H Pharmaceuticals Ltd)
+amp,3178411000001103,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler (Mylan)
+amp,3179011000001102,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd)
+amp,4773811000001101,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler (Teva UK Ltd)
+amp,7379111000001102,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler (Kent Pharmaceuticals Ltd)
+amp,11400511000001100,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler (Almus Pharmaceuticals Ltd)
+amp,17794111000001108,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler (Phoenix Healthcare Distribution Ltd)
+vmp,320537007,0302000C0AAABAB,Beclometasone 100micrograms/dose inhaler
+amp,3179811000001108,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler (A A H Pharmaceuticals Ltd)
+amp,3180011000001102,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler (Mylan)
+amp,3180911000001103,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler (Alliance Healthcare (Distribution) Ltd)
+amp,4774011000001109,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler (Teva UK Ltd)
+amp,7379311000001100,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler (Kent Pharmaceuticals Ltd)
+amp,11400811000001102,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler (Almus Pharmaceuticals Ltd)
+amp,17833911000001100,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler (Phoenix Healthcare Distribution Ltd)
+vmp,35908811000001103,0302000C0AAACAC,Beclometasone 250micrograms/dose inhaler
+vmp,320534000,0302000C0AAAEAE,Beclometasone 100microgram inhalation powder capsules
+vmp,320535004,0302000C0AAAFAF,Beclometasone 200microgram inhalation powder capsules
+vmp,35907711000001105,0302000C0AAAGAG,Beclometasone 100microgram inhalation powder blisters with device
+vmp,35908311000001107,0302000C0AAAHAH,Beclometasone 200microgram inhalation powder blisters with device
+vmp,320520000,0302000C0AAAIAI,Beclometasone 400microgram inhalation powder capsules
+vmp,35909011000001104,0302000C0AAAJAJ,Beclometasone 400microgram inhalation powder blisters with device
+vmp,35908211000001104,0302000C0AAAKAK,Beclometasone 200microgram inhalation powder blisters
+vmp,35907611000001101,0302000C0AAALAL,Beclometasone 100microgram inhalation powder blisters
+vmp,35936211000001105,0302000C0AAANAN,Salbutamol 100micrograms/dose / Beclometasone 50micrograms/dose inhaler
+vmp,320543009,0302000C0AAAPAP,Salbutamol 400microgram / Beclometasone 200microgram inhalation powder capsules
+vmp,35908911000001108,0302000C0AAAQAQ,Beclometasone 400microgram inhalation powder blisters
+amp,4332611000001107,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler (A A H Pharmaceuticals Ltd)
+amp,15052211000001104,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler (Sigma Pharmaceuticals Plc)
+vmp,35908511000001101,0302000C0AAARAR,Beclometasone 200micrograms/dose inhaler
+vmp,35909211000001109,0302000C0AAASAS,Beclometasone 50micrograms/dose breath actuated inhaler
+vmp,35907811000001102,0302000C0AAATAT,Beclometasone 100micrograms/dose breath actuated inhaler
+vmp,35908611000001102,0302000C0AAAUAU,Beclometasone 250micrograms/dose breath actuated inhaler
+vmp,35909611000001106,0302000C0AABEBE,Beclometasone 50micrograms/dose inhaler CFC free
+vmp,35908111000001105,0302000C0AABFBF,Beclometasone 100micrograms/dose inhaler CFC free
+vmp,35909311000001101,0302000C0AABGBG,Beclometasone 50micrograms/dose breath actuated inhaler CFC free
+vmp,35907911000001107,0302000C0AABHBH,Beclometasone 100micrograms/dose breath actuated inhaler CFC free
+vmp,35909411000001108,0302000C0AABIBI,Beclometasone 50micrograms/dose dry powder inhaler
+vmp,35908011000001109,0302000C0AABJBJ,Beclometasone 100micrograms/dose dry powder inhaler
+vmp,35908711000001106,0302000C0AABKBK,Beclometasone 250micrograms/dose dry powder inhaler
+vmp,35369511000001103,0302000C0AABLBL,Salbutamol 200microgram / Beclometasone 100microgram inhalation powder capsules
+vmp,35909111000001103,0302000C0AABSBS,Beclometasone 400micrograms/dose dry powder inhaler
+vmp,35908411000001100,0302000C0AABUBU,Beclometasone 200micrograms/dose dry powder inhaler
+vmp,10621011000001101,0302000C0AABVBV,Beclometasone 200micrograms/dose inhaler CFC free
+vmp,10621111000001100,0302000C0AABWBW,Beclometasone 250micrograms/dose inhaler CFC free
+vmp,12911011000001100,0302000C0AABXBX,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free
+vmp,26148711000001101,0302000C0AABYBY,Beclometasone 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+vmp,31087411000001106,0302000C0AABZBZ,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free
+vmp,31087511000001105,0302000C0AACACA,Beclometasone 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+amp,3180211000001107,0302000C0BBAAAC,Becloforte 250micrograms/dose inhaler (GlaxoSmithKline UK Ltd)
+amp,3103211000001103,0302000C0BBACAJ,Becloforte 400microgram disks with Diskhaler (GlaxoSmithKline UK Ltd)
+amp,3105311000001107,0302000C0BBADAQ,Becloforte 400microgram disks (GlaxoSmithKline UK Ltd)
+amp,3190311000001103,0302000C0BCACAE,Becotide 100microgram Rotacaps (GlaxoSmithKline UK Ltd)
+amp,3192111000001101,0302000C0BCADAF,Becotide 200microgram Rotacaps (GlaxoSmithKline UK Ltd)
+amp,3194011000001108,0302000C0BCAGAI,Becotide 400microgram Rotacaps (GlaxoSmithKline UK Ltd)
+amp,3178611000001100,0302000C0BCAHAB,Becotide 100 inhaler (GlaxoSmithKline UK Ltd)
+amp,3176211000001103,0302000C0BCAIAA,Becotide 50 inhaler (GlaxoSmithKline UK Ltd)
+amp,3179311000001104,0302000C0BCAQAR,Becotide 200 inhaler (GlaxoSmithKline UK Ltd)
+amp,3292811000001106,0302000C0BDAAAN,Ventide inhaler (GlaxoSmithKline UK Ltd)
+amp,3202211000001107,0302000C0BDABAP,Ventide Rotacaps (GlaxoSmithKline UK Ltd)
+amp,3200511000001109,0302000C0BDACBL,Ventide Paediatric Rotacaps (GlaxoSmithKline UK Ltd)
+amp,3604911000001105,0302000C0BEAAAS,AeroBec 50 Autohaler (Meda Pharmaceuticals Ltd)
+amp,3182411000001107,0302000C0BEABAU,AeroBec Forte 250 Autohaler (Meda Pharmaceuticals Ltd)
+amp,3181411000001102,0302000C0BEACAT,AeroBec 100 Autohaler (Meda Pharmaceuticals Ltd)
+amp,3176411000001104,0302000C0BFAAAA,Beclazone 50 inhaler (Teva UK Ltd)
+amp,3178811000001101,0302000C0BFABAB,Beclazone 100 inhaler (Teva UK Ltd)
+amp,3180611000001109,0302000C0BFACAC,Beclazone 250 inhaler (Teva UK Ltd)
+amp,3604611000001104,0302000C0BFADAS,Beclazone 50 Easi-Breathe inhaler (Teva UK Ltd)
+amp,3181711000001108,0302000C0BFAEAT,Beclazone 100 Easi-Breathe inhaler (Teva UK Ltd)
+amp,3182611000001105,0302000C0BFAFAU,Beclazone 250 Easi-Breathe inhaler (Teva UK Ltd)
+amp,3179511000001105,0302000C0BFAGAR,Beclazone 200 inhaler (Teva UK Ltd)
+amp,3175211000001109,0302000C0BGAAAA,Filair 50 inhaler (Meda Pharmaceuticals Ltd)
+amp,3177911000001105,0302000C0BGABAB,Filair 100 inhaler (Meda Pharmaceuticals Ltd)
+amp,4753511000001101,0302000C0BGACAC,Filair Forte 250micrograms/dose inhaler (Meda Pharmaceuticals Ltd)
+amp,3088611000001100,0302000C0BHAAAG,Becodisks 100microgram with Diskhaler (GlaxoSmithKline UK Ltd)
+amp,3086011000001108,0302000C0BHABAL,Becodisks 100microgram (GlaxoSmithKline UK Ltd)
+amp,3096011000001109,0302000C0BHACAH,Becodisks 200microgram with Diskhaler (GlaxoSmithKline UK Ltd)
+amp,3099811000001109,0302000C0BHADAK,Becodisks 200microgram (GlaxoSmithKline UK Ltd)
+amp,3102211000001109,0302000C0BHAEAJ,Becodisks 400microgram with Diskhaler (GlaxoSmithKline UK Ltd)
+amp,3104911000001109,0302000C0BHAFAQ,Becodisks 400microgram (GlaxoSmithKline UK Ltd)
+amp,3111911000001108,0302000C0BIADBI,Asmabec 50 Clickhaler (Focus Pharmaceuticals Ltd)
+amp,3112511000001109,0302000C0BIAEBJ,Asmabec 100 Clickhaler (Focus Pharmaceuticals Ltd)
+amp,3174111000001102,0302000C0BIAFBK,Asmabec 250 Clickhaler (Focus Pharmaceuticals Ltd)
+amp,3176811000001102,0302000C0BJAABE,Qvar 50 inhaler (Teva UK Ltd)
+amp,3175611000001106,0302000C0BJABBF,Qvar 100 inhaler (Teva UK Ltd)
+amp,3177411000001102,0302000C0BJACBG,Qvar 50 Autohaler (Teva UK Ltd)
+amp,3177711000001108,0302000C0BJADBH,Qvar 100 Autohaler (Teva UK Ltd)
+amp,8159511000001107,0302000C0BJAEBG,Qvar 50micrograms/dose Easi-Breathe inhaler (Teva UK Ltd)
+amp,8159711000001102,0302000C0BJAFBH,Qvar 100micrograms/dose Easi-Breathe inhaler (Teva UK Ltd)
+amp,3113411000001101,0302000C0BLAABM,Pulvinal Beclometasone Dipropionate 200micrograms/dose dry powder inhaler (Chiesi Ltd)
+amp,3112911000001102,0302000C0BLABBN,Pulvinal Beclometasone Dipropionate 100micrograms/dose dry powder inhaler (Chiesi Ltd)
+amp,3175111000001103,0302000C0BLACBP,Pulvinal Beclometasone Dipropionate 400micrograms/dose dry powder inhaler (Chiesi Ltd)
+amp,3189711000001107,0302000C0BMAAAE,Beclometasone 100 Cyclocaps (Teva UK Ltd)
+amp,3192611000001109,0302000C0BMABAF,Beclometasone 200 Cyclocaps (Teva UK Ltd)
+amp,3194511000001100,0302000C0BMACAI,Beclometasone 400 Cyclocaps (Teva UK Ltd)
+amp,9525111000001105,0302000C0BNAABU,Easyhaler Beclometasone 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+amp,10617711000001103,0302000C0BPAABE,Clenil Modulite 50micrograms/dose inhaler (Chiesi Ltd)
+amp,10618211000001109,0302000C0BPABBF,Clenil Modulite 100micrograms/dose inhaler (Chiesi Ltd)
+amp,10619311000001107,0302000C0BPACBV,Clenil Modulite 200micrograms/dose inhaler (Chiesi Ltd)
+amp,10619611000001102,0302000C0BPADBW,Clenil Modulite 250micrograms/dose inhaler (Chiesi Ltd)
+amp,12906411000001100,0302000C0BQAABX,Fostair 100micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd)
+amp,31063411000001101,0302000C0BQABBZ,Fostair 200micrograms/dose / 6micrograms/dose inhaler (Chiesi Ltd)
+amp,26112111000001106,0302000C0BRAABY,Fostair NEXThaler 100micrograms/dose / 6micrograms/dose dry powder inhaler (Chiesi Ltd)
+amp,31063111000001106,0302000C0BRABCA,Fostair NEXThaler 200micrograms/dose / 6micrograms/dose dry powder inhaler (Chiesi Ltd)
+amp,35430111000001100,0302000C0BSAABE,Kelhale 50micrograms/dose inhaler (Cipla EU Ltd)
+amp,35430311000001103,0302000C0BSABBF,Kelhale 100micrograms/dose inhaler (Cipla EU Ltd)
+amp,36603211000001106,0302000C0BTAABE,Soprobec 50micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd)
+amp,36603411000001105,0302000C0BTABBV,Soprobec 200micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd)
+amp,36603611000001108,0302000C0BTACBF,Soprobec 100micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd)
+amp,36603811000001107,0302000C0BTADBW,Soprobec 250micrograms/dose inhaler (Glenmark Pharmaceuticals Europe Ltd)
+vmp,35912811000001103,0302000K0AAAAAA,Budesonide 50micrograms/dose inhaler
+vmp,35912511000001101,0302000K0AAADAD,Budesonide 200micrograms/dose inhaler
+vmp,35912411000001100,0302000K0AAAGAG,Budesonide 200micrograms/dose dry powder inhaler
+vmp,35912711000001106,0302000K0AAAHAH,Budesonide 400micrograms/dose dry powder inhaler
+amp,10273211000001108,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd)
+amp,10274211000001106,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Teva UK Ltd)
+amp,10326711000001104,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd)
+amp,10347911000001102,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+amp,10453211000001107,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+amp,11005711000001109,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Actavis UK Ltd)
+amp,15060511000001109,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc)
+amp,17810011000001102,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd)
+amp,18507211000001101,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Almus Pharmaceuticals Ltd)
+amp,21804611000001101,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc)
+amp,22622611000001108,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials (DE Pharmaceuticals)
+amp,30004511000001108,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd)
+vmp,3654611000001109,0302000K0AAAIAI,Budesonide 1mg/2ml nebuliser liquid unit dose vials
+amp,10272811000001101,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (A A H Pharmaceuticals Ltd)
+amp,10273611000001105,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Teva UK Ltd)
+amp,10326511000001109,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Kent Pharmaceuticals Ltd)
+amp,10347711000001104,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Alliance Healthcare (Distribution) Ltd)
+amp,10453011000001102,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Arrow Generics Ltd)
+amp,11005511000001104,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Actavis UK Ltd)
+amp,17809311000001106,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Phoenix Healthcare Distribution Ltd)
+amp,18507011000001106,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Almus Pharmaceuticals Ltd)
+amp,21804411000001104,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Waymade Healthcare Plc)
+amp,22622411000001105,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (DE Pharmaceuticals)
+amp,29775411000001101,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Sigma Pharmaceuticals Plc)
+amp,30004311000001102,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials (Mawdsley-Brooks & Company Ltd)
+vmp,3654511000001105,0302000K0AAAJAJ,Budesonide 500micrograms/2ml nebuliser liquid unit dose vials
+vmp,35912111000001105,0302000K0AAAKAK,Budesonide 100micrograms/dose dry powder inhaler
+vmp,35912011000001109,0302000K0AAALAL,Budesonide 100micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+vmp,134498003,0302000K0AAAMAM,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose dry powder inhaler
+vmp,3432911000001109,0302000K0AAARAR,Budesonide 200microgram inhalation powder capsules
+vmp,3433011000001101,0302000K0AAASAS,Budesonide 400microgram inhalation powder capsules
+vmp,4864911000001104,0302000K0AAATAT,Budesonide 200micrograms/dose inhaler with spacer
+vmp,4378111000001103,0302000K0AAAUAU,Budesonide 400micrograms/dose / Formoterol 12micrograms/dose dry powder inhaler
+vmp,8024611000001102,0302000K0AAAVAV,Budesonide 200micrograms/dose dry powder inhalation cartridge with device
+vmp,9117811000001107,0302000K0AAAWAW,Budesonide 200micrograms/dose dry powder inhalation cartridge
+vmp,14959511000001107,0302000K0AAAZAZ,Budesonide 100micrograms/dose inhaler CFC free
+vmp,15374611000001106,0302000K0AABABA,Budesonide 200micrograms/dose inhaler CFC free
+vmp,32960711000001105,0302000K0AABBBB,Budesonide 200micrograms/dose / Formoterol 6micrograms/dose inhaler CFC free
+amp,2924111000001109,0302000K0BBADAD,Pulmicort 200micrograms/dose inhaler (AstraZeneca UK Ltd)
+amp,3240911000001108,0302000K0BBAEAA,Pulmicort LS 50micrograms/dose inhaler (AstraZeneca UK Ltd)
+amp,3636511000001103,0302000K0BBAGAI,Pulmicort 1mg Respules (AstraZeneca UK Ltd)
+amp,3112411000001105,0302000K0BBAHAG,Pulmicort 200 Turbohaler (AstraZeneca UK Ltd)
+amp,3228711000001106,0302000K0BBAIAH,Pulmicort 400 Turbohaler (AstraZeneca UK Ltd)
+amp,3635411000001106,0302000K0BBAJAJ,Pulmicort 0.5mg Respules (AstraZeneca UK Ltd)
+amp,3113111000001106,0302000K0BBAKAK,Pulmicort 100 Turbohaler (AstraZeneca UK Ltd)
+amp,4860811000001104,0302000K0BBALAT,Pulmicort 200micrograms/dose inhaler with Nebuchamber (AstraZeneca UK Ltd)
+amp,14951111000001102,0302000K0BBAMAZ,Pulmicort 100micrograms/dose inhaler CFC free (AstraZeneca UK Ltd)
+amp,15358411000001102,0302000K0BBANBA,Pulmicort 200micrograms/dose inhaler CFC free (AstraZeneca UK Ltd)
+amp,3294211000001101,0302000K0BDAAAL,Symbicort 100/6 Turbohaler (AstraZeneca UK Ltd)
+amp,3294611000001104,0302000K0BDABAM,Symbicort 200/6 Turbohaler (AstraZeneca UK Ltd)
+amp,4373811000001100,0302000K0BDACAU,Symbicort 400/12 Turbohaler (AstraZeneca UK Ltd)
+amp,32926011000001100,0302000K0BDADBB,Symbicort 200micrograms/dose / 6micrograms/dose pressurised inhaler (AstraZeneca UK Ltd)
+amp,3197211000001105,0302000K0BEAAAR,Budesonide 200 Cyclocaps (Teva UK Ltd)
+amp,3198411000001108,0302000K0BEABAS,Budesonide 400 Cyclocaps (Teva UK Ltd)
+amp,8031811000001102,0302000K0BFAAAV,Budelin Novolizer 200micrograms/dose inhalation powder (Mylan)
+amp,9111811000001100,0302000K0BFABAC,Budelin Novolizer 200micrograms/dose inhalation powder refill (Mylan)
+amp,10073911000001106,0302000K0BGAAAK,Easyhaler Budesonide 100micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+amp,10074611000001102,0302000K0BGABAX,Easyhaler Budesonide 200micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+amp,10074411000001100,0302000K0BGACAY,Easyhaler Budesonide 400micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+amp,25254111000001105,0302000K0BHAAAM,DuoResp Spiromax 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Teva UK Ltd)
+amp,25254711000001106,0302000K0BHABAU,DuoResp Spiromax 320micrograms/dose / 9micrograms/dose dry powder inhaler (Teva UK Ltd)
+amp,34812111000001106,0302000K0BIAAAU,Fobumix Easyhaler 320micrograms/dose / 9micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+amp,34950311000001108,0302000K0BIABBC,Fobumix Easyhaler 160micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+amp,34950611000001103,0302000K0BIADAL,Fobumix Easyhaler 80micrograms/dose / 4.5micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+vmp,36059911000001104,0302000N0AAAAAA,Fluticasone propionate 50microgram inhalation powder blisters with device
+vmp,36059811000001109,0302000N0AAABAB,Fluticasone propionate 50microgram inhalation powder blisters
+vmp,36059311000001100,0302000N0AAACAC,Fluticasone propionate 100microgram inhalation powder blisters with device
+vmp,36059211000001108,0302000N0AAADAD,Fluticasone propionate 100microgram inhalation powder blisters
+vmp,36059411000001107,0302000N0AAAEAE,Fluticasone propionate 250microgram inhalation powder blisters with device
+vmp,36059511000001106,0302000N0AAAFAF,Fluticasone propionate 250microgram inhalation powder blisters
+vmp,36059111000001102,0302000N0AAAGAG,Fluticasone 25micrograms/dose inhaler
+vmp,36059711000001101,0302000N0AAAPAP,Fluticasone propionate 500microgram inhalation powder blisters with device
+vmp,36059611000001105,0302000N0AAAQAQ,Fluticasone propionate 500microgram inhalation powder blisters
+vmp,320602002,0302000N0AAARAR,Fluticasone propionate 50micrograms/dose dry powder inhaler
+vmp,320603007,0302000N0AAASAS,Fluticasone propionate 100micrograms/dose dry powder inhaler
+vmp,36565411000001101,0302000N0AAATAT,Fluticasone propionate 250micrograms/dose dry powder inhaler
+vmp,320605000,0302000N0AAAUAU,Fluticasone propionate 500micrograms/dose dry powder inhaler
+vmp,320610001,0302000N0AAAVAV,Fluticasone 500micrograms/2ml nebuliser liquid unit dose vials
+vmp,320611002,0302000N0AAAWAW,Fluticasone 2mg/2ml nebuliser liquid unit dose vials
+vmp,320277000,0302000N0AAAXAX,Fluticasone propionate 100micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+vmp,320279002,0302000N0AAAYAY,Fluticasone propionate 250micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+amp,31064811000001101,0302000N0AAAZAZ,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler (A A H Pharmaceuticals Ltd)
+vmp,320280004,0302000N0AAAZAZ,Fluticasone propionate 500micrograms/dose / Salmeterol 50micrograms/dose dry powder inhaler
+vmp,320614005,0302000N0AABABA,Fluticasone 125micrograms/dose inhaler CFC free
+vmp,320615006,0302000N0AABCBC,Fluticasone 250micrograms/dose inhaler CFC free
+vmp,320274007,0302000N0AABEBE,Fluticasone 50micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+vmp,320275008,0302000N0AABFBF,Fluticasone 125micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+vmp,320276009,0302000N0AABGBG,Fluticasone 250micrograms/dose / Salmeterol 25micrograms/dose inhaler CFC free
+vmp,320618008,0302000N0AABHBH,Fluticasone 50micrograms/dose inhaler CFC free
+vmp,21113711000001102,0302000N0AABJBJ,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free
+vmp,21113811000001105,0302000N0AABKBK,Fluticasone 250micrograms/dose / Formoterol 10micrograms/dose inhaler CFC free
+vmp,21113911000001100,0302000N0AABLBL,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose inhaler CFC free
+vmp,35647511000001107,0302000N0AABPBP,Fluticasone 125micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free
+vmp,35647611000001106,0302000N0AABQBQ,Fluticasone 50micrograms/dose / Formoterol 5micrograms/dose breath actuated inhaler CFC free
+amp,3097711000001109,0302000N0BBAAAA,Flixotide 50microgram disks with Diskhaler (GlaxoSmithKline UK Ltd)
+amp,3100811000001109,0302000N0BBABAB,Flixotide 50microgram disks (GlaxoSmithKline UK Ltd)
+amp,3098611000001101,0302000N0BBACAC,Flixotide 100microgram disks with Diskhaler (GlaxoSmithKline UK Ltd)
+amp,3099611000001105,0302000N0BBADAD,Flixotide 100microgram disks (GlaxoSmithKline UK Ltd)
+amp,3106311000001102,0302000N0BBAEAE,Flixotide 250microgram disks with Diskhaler (GlaxoSmithKline UK Ltd)
+amp,3103511000001100,0302000N0BBAFAF,Flixotide 250microgram disks (GlaxoSmithKline UK Ltd)
+amp,4856011000001103,0302000N0BBAGAG,Flixotide 25micrograms/dose inhaler (GlaxoSmithKline UK Ltd)
+amp,3108411000001105,0302000N0BBAPAP,Flixotide 500microgram disks with Diskhaler (GlaxoSmithKline UK Ltd)
+amp,3110511000001108,0302000N0BBAQAQ,Flixotide 500microgram disks (GlaxoSmithKline UK Ltd)
+amp,3183811000001101,0302000N0BBARAR,Flixotide 50micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd)
+amp,3184311000001107,0302000N0BBASAS,Flixotide 100micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd)
+amp,3184911000001108,0302000N0BBATAT,Flixotide 250micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd)
+amp,3185211000001103,0302000N0BBAUAU,Flixotide 500micrograms/dose Accuhaler (GlaxoSmithKline UK Ltd)
+amp,3389111000001102,0302000N0BBAVAV,Flixotide 0.5mg/2ml Nebules (GlaxoSmithKline UK Ltd)
+amp,3397211000001103,0302000N0BBAWAW,Flixotide 2mg/2ml Nebules (GlaxoSmithKline UK Ltd)
+amp,398511000001105,0302000N0BBAYBB,Flixotide 125micrograms/dose Evohaler (GlaxoSmithKline UK Ltd)
+amp,2831211000001109,0302000N0BBBABD,Flixotide 250micrograms/dose Evohaler (GlaxoSmithKline UK Ltd)
+amp,726611000001102,0302000N0BBBBBH,Flixotide 50micrograms/dose Evohaler (GlaxoSmithKline UK Ltd)
+amp,3186911000001100,0302000N0BCAAAX,Seretide 100 Accuhaler (GlaxoSmithKline UK Ltd)
+amp,3187211000001106,0302000N0BCABAY,Seretide 250 Accuhaler (GlaxoSmithKline UK Ltd)
+amp,3188311000001102,0302000N0BCACAZ,Seretide 500 Accuhaler (GlaxoSmithKline UK Ltd)
+amp,453611000001102,0302000N0BCADBE,Seretide 50 Evohaler (GlaxoSmithKline UK Ltd)
+amp,810211000001105,0302000N0BCAEBF,Seretide 125 Evohaler (GlaxoSmithKline UK Ltd)
+amp,539811000001106,0302000N0BCAFBG,Seretide 250 Evohaler (GlaxoSmithKline UK Ltd)
+amp,21019411000001101,0302000N0BDAABJ,Flutiform 125micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd)
+amp,21019711000001107,0302000N0BDABBK,Flutiform 250micrograms/dose / 10micrograms/dose inhaler (Napp Pharmaceuticals Ltd)
+amp,21020611000001104,0302000N0BDACBL,Flutiform 50micrograms/dose / 5micrograms/dose inhaler (Napp Pharmaceuticals Ltd)
+amp,35647311000001101,0302000N0BDADBP,Flutiform K-haler 125micrograms/dose / 5micrograms/dose breath actuated inhaler (Napp Pharmaceuticals Ltd)
+amp,35650811000001109,0302000N0BDAEBQ,Flutiform K-haler 50micrograms/dose / 5micrograms/dose breath actuated inhaler (Napp Pharmaceuticals Ltd)
+amp,29782111000001107,0302000N0BFAABF,Sirdupla 25micrograms/dose / 125micrograms/dose inhaler (Mylan)
+amp,29782511000001103,0302000N0BFABBG,Sirdupla 25micrograms/dose / 250micrograms/dose inhaler (Mylan)
+amp,30950311000001106,0302000N0BGAAAZ,AirFluSal Forspiro 50micrograms/dose / 500micrograms/dose dry powder inhaler (Sandoz Ltd)
+amp,34215311000001107,0302000N0BGABBF,AirFluSal 25micrograms/dose / 125micrograms/dose inhaler (Sandoz Ltd)
+amp,34215511000001101,0302000N0BGACBG,AirFluSal 25micrograms/dose / 250micrograms/dose inhaler (Sandoz Ltd)
+amp,33679711000001103,0302000N0BHAAAZ,Aerivio Spiromax 50micrograms/dose / 500micrograms/dose dry powder inhaler (Teva UK Ltd)
+amp,34023611000001101,0302000N0BIAABF,Sereflo 25micrograms/dose / 125micrograms/dose inhaler (Cipla EU Ltd)
+amp,34023811000001102,0302000N0BIABBG,Sereflo 25micrograms/dose / 250micrograms/dose inhaler (Cipla EU Ltd)
+amp,34677011000001107,0302000N0BJAABF,Aloflute 25micrograms/dose / 125micrograms/dose inhaler (Mylan)
+amp,34675711000001103,0302000N0BJABBG,Aloflute 25micrograms/dose / 250micrograms/dose inhaler (Mylan)
+amp,35515511000001100,0302000N0BKAAAY,Fusacomb Easyhaler 50micrograms/dose / 250micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+amp,35515311000001106,0302000N0BKABAZ,Fusacomb Easyhaler 50micrograms/dose / 500micrograms/dose dry powder inhaler (Orion Pharma (UK) Ltd)
+amp,35594011000001105,0302000N0BLAABE,Combisal 25micrograms/dose / 50micrograms/dose inhaler (Aspire Pharma Ltd)
+amp,35594211000001100,0302000N0BLABBF,Combisal 25micrograms/dose / 125micrograms/dose inhaler (Aspire Pharma Ltd)
+amp,35594411000001101,0302000N0BLACBG,Combisal 25micrograms/dose / 250micrograms/dose inhaler (Aspire Pharma Ltd)
+amp,36604711000001102,0302000N0BMAAAZ,Stalpex 50micrograms/dose / 500micrograms/dose dry powder inhaler (Glenmark Pharmaceuticals Europe Ltd)
+vmp,408026006,0302000R0AAAAAA,Mometasone 200micrograms/dose dry powder inhaler
+vmp,408013007,0302000R0AAACAC,Mometasone 400micrograms/dose dry powder inhaler
+amp,4045711000001107,0302000R0BBAAAA,Asmanex 200micrograms/dose Twisthaler (Merck Sharp & Dohme Ltd)
+amp,4043811000001103,0302000R0BBACAC,Asmanex 400micrograms/dose Twisthaler (Merck Sharp & Dohme Ltd)
+vmp,9004511000001107,0302000U0AAAAAA,Ciclesonide 80micrograms/dose inhaler CFC free
+vmp,9004411000001108,0302000U0AAABAB,Ciclesonide 160micrograms/dose inhaler CFC free
+amp,9003911000001102,0302000U0BBAAAA,Alvesco 80 inhaler (AstraZeneca UK Ltd)
+amp,9004211000001109,0302000U0BBABAB,Alvesco 160 inhaler (AstraZeneca UK Ltd)
+vmp,23661311000001105,0302000V0AAAAAA,Fluticasone furoate 184micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler
+vmp,23661411000001103,0302000V0AAABAB,Fluticasone furoate 92micrograms/dose / Vilanterol 22micrograms/dose dry powder inhaler
+amp,23621711000001102,0302000V0BBAAAA,Relvar Ellipta 184micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd)
+amp,23622011000001107,0302000V0BBABAB,Relvar Ellipta 92micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd)
+amp,34952211000001104,0302000V0BCAAA0,Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler (GlaxoSmithKline UK Ltd)
+vmp,34955111000001103,0302000V0BCAAA0,Generic Trelegy Ellipta 92micrograms/dose / 55micrograms/dose / 22micrograms/dose dry powder inhaler
+amp,22106511000001102,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Actavis UK Ltd)
+amp,22112611000001102,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Teva UK Ltd)
+amp,22157111000001100,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (A A H Pharmaceuticals Ltd)
+amp,22165311000001102,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Alliance Healthcare (Distribution) Ltd)
+amp,22217511000001100,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Consilient Health Ltd)
+amp,22352011000001109,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Dexcel-Pharma Ltd)
+amp,22948511000001108,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Ranbaxy (UK) Ltd)
+amp,23563511000001107,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Accord Healthcare Ltd)
+amp,23960511000001107,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Milpharm Ltd)
+amp,23973411000001109,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Dr Reddy's Laboratories (UK) Ltd)
+amp,24402911000001100,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (DE Pharmaceuticals)
+amp,24513011000001101,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Sandoz Ltd)
+amp,29926911000001108,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Sigma Pharmaceuticals Plc)
+amp,30833811000001101,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Mawdsley-Brooks & Company Ltd)
+amp,36605911000001101,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Bristol Laboratories Ltd)
+amp,36822511000001104,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free (Torrent Pharma (UK) Ltd)
+vmp,320885001,0303020G0AAAAAA,Montelukast 5mg chewable tablets sugar free
+amp,22106711000001107,0303020G0AAABAB,Montelukast 10mg tablets (Actavis UK Ltd)
+amp,22111911000001102,0303020G0AAABAB,Montelukast 10mg tablets (Teva UK Ltd)
+amp,22129111000001105,0303020G0AAABAB,Montelukast 10mg tablets (A A H Pharmaceuticals Ltd)
+amp,22164911000001100,0303020G0AAABAB,Montelukast 10mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,22217711000001105,0303020G0AAABAB,Montelukast 10mg tablets (Consilient Health Ltd)
+amp,22351611000001108,0303020G0AAABAB,Montelukast 10mg tablets (Dexcel-Pharma Ltd)
+amp,22497111000001107,0303020G0AAABAB,Montelukast 10mg tablets (Dr Reddy's Laboratories (UK) Ltd)
+amp,22948111000001104,0303020G0AAABAB,Montelukast 10mg tablets (Ranbaxy (UK) Ltd)
+amp,23484811000001100,0303020G0AAABAB,Montelukast 10mg tablets (Accord Healthcare Ltd)
+amp,23960811000001105,0303020G0AAABAB,Montelukast 10mg tablets (Milpharm Ltd)
+amp,24403311000001106,0303020G0AAABAB,Montelukast 10mg tablets (DE Pharmaceuticals)
+amp,24511811000001108,0303020G0AAABAB,Montelukast 10mg tablets (Sandoz Ltd)
+amp,29926511000001101,0303020G0AAABAB,Montelukast 10mg tablets (Sigma Pharmaceuticals Plc)
+amp,30834011000001109,0303020G0AAABAB,Montelukast 10mg tablets (Mawdsley-Brooks & Company Ltd)
+amp,34957311000001109,0303020G0AAABAB,Montelukast 10mg tablets (Almus Pharmaceuticals Ltd)
+amp,36605511000001108,0303020G0AAABAB,Montelukast 10mg tablets (Bristol Laboratories Ltd)
+amp,36832211000001100,0303020G0AAABAB,Montelukast 10mg tablets (Torrent Pharma (UK) Ltd)
+vmp,320884002,0303020G0AAABAB,Montelukast 10mg tablets
+amp,22106311000001108,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Actavis UK Ltd)
+amp,22112411000001100,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Teva UK Ltd)
+amp,22156811000001105,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (A A H Pharmaceuticals Ltd)
+amp,22165111000001104,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Alliance Healthcare (Distribution) Ltd)
+amp,22217311000001106,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Consilient Health Ltd)
+amp,22352211000001104,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Dexcel-Pharma Ltd)
+amp,22948311000001102,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Ranbaxy (UK) Ltd)
+amp,23562811000001102,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Accord Healthcare Ltd)
+amp,23959611000001107,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Milpharm Ltd)
+amp,23972911000001108,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Dr Reddy's Laboratories (UK) Ltd)
+amp,24402611000001106,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (DE Pharmaceuticals)
+amp,24512811000001104,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Sandoz Ltd)
+amp,29926711000001106,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Sigma Pharmaceuticals Plc)
+amp,30833611000001100,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Mawdsley-Brooks & Company Ltd)
+amp,36605711000001103,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Bristol Laboratories Ltd)
+amp,36822311000001105,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free (Torrent Pharma (UK) Ltd)
+vmp,134510006,0303020G0AAACAC,Montelukast 4mg chewable tablets sugar free
+amp,22112811000001103,0303020G0AAADAD,Montelukast 4mg granules sachets sugar free (Teva UK Ltd)
+amp,22157311000001103,0303020G0AAADAD,Montelukast 4mg granules sachets sugar free (A A H Pharmaceuticals Ltd)
+amp,22165511000001108,0303020G0AAADAD,Montelukast 4mg granules sachets sugar free (Alliance Healthcare (Distribution) Ltd)
+amp,24513311000001103,0303020G0AAADAD,Montelukast 4mg granules sachets sugar free (Sandoz Ltd)
+amp,30833411000001103,0303020G0AAADAD,Montelukast 4mg granules sachets sugar free (Mawdsley-Brooks & Company Ltd)
+amp,34957511000001103,0303020G0AAADAD,Montelukast 4mg granules sachets sugar free (Almus Pharmaceuticals Ltd)
+amp,37453011000001109,0303020G0AAADAD,Montelukast 4mg granules sachets sugar free (DE Pharmaceuticals)
+vmp,410944008,0303020G0AAADAD,Montelukast 4mg granules sachets sugar free
+amp,892311000001104,0303020G0BBAAAA,Singulair Paediatric 5mg chewable tablets (Merck Sharp & Dohme Ltd)
+amp,719811000001104,0303020G0BBABAB,Singulair 10mg tablets (Merck Sharp & Dohme Ltd)
+amp,863011000001109,0303020G0BBACAC,Singulair Paediatric 4mg chewable tablets (Merck Sharp & Dohme Ltd)
+amp,6741711000001104,0303020G0BBADAD,Singulair Paediatric 4mg granules sachets (Merck Sharp & Dohme Ltd)
+amp,37534411000001105,0303020Z0AAABAB,Zafirlukast 20mg tablets (Special Order)
+vmp,320889007,0303020Z0AAABAB,Zafirlukast 20mg tablets
+amp,408011000001106,0303020Z0BBAAAA,Accolate 20mg tablets (AstraZeneca UK Ltd)
+vmp,17674711000001106,0303030B0AAAAAA,Roflumilast 500microgram tablets
+vmp,35813111000001107,0303030B0AAABAB,Roflumilast 250microgram tablets
+amp,17669411000001109,0303030B0BBAAAA,Daxas 500microgram tablets (AstraZeneca UK Ltd)
+amp,35754511000001107,0303030B0BBABAB,Daxas 250microgram tablets (AstraZeneca UK Ltd)
+amp,52911000001107,0603020T0AAAAAA,Prednisolone 1mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,238511000001107,0603020T0AAAAAA,Prednisolone 1mg tablets (Teva UK Ltd)
+amp,646211000001106,0603020T0AAAAAA,Prednisolone 1mg tablets (Accord Healthcare Ltd)
+amp,649711000001109,0603020T0AAAAAA,Prednisolone 1mg tablets (A A H Pharmaceuticals Ltd)
+amp,707911000001100,0603020T0AAAAAA,Prednisolone 1mg tablets (Kent Pharmaceuticals Ltd)
+amp,798611000001108,0603020T0AAAAAA,Prednisolone 1mg tablets (The Boots Company Plc)
+amp,844111000001103,0603020T0AAAAAA,Prednisolone 1mg tablets (Wockhardt UK Ltd)
+amp,9807711000001108,0603020T0AAAAAA,Prednisolone 1mg tablets (Almus Pharmaceuticals Ltd)
+amp,10409611000001103,0603020T0AAAAAA,Prednisolone 1mg tablets (Arrow Generics Ltd)
+amp,14786411000001103,0603020T0AAAAAA,Prednisolone 1mg tablets (Boston Healthcare Ltd)
+amp,18285011000001109,0603020T0AAAAAA,Prednisolone 1mg tablets (Strides Pharma UK Ltd)
+amp,21851211000001107,0603020T0AAAAAA,Prednisolone 1mg tablets (Waymade Healthcare Plc)
+amp,30114811000001104,0603020T0AAAAAA,Prednisolone 1mg tablets (DE Pharmaceuticals)
+amp,30858911000001100,0603020T0AAAAAA,Prednisolone 1mg tablets (Mawdsley-Brooks & Company Ltd)
+amp,32807911000001101,0603020T0AAAAAA,Prednisolone 1mg tablets (Genesis Pharmaceuticals Ltd)
+vmp,325426006,0603020T0AAAAAA,Prednisolone 1mg tablets
+amp,32772911000001108,0603020T0AAABAB,Prednisolone 2.5mg tablets (Accord Healthcare Ltd)
+amp,32776111000001109,0603020T0AAABAB,Prednisolone 2.5mg tablets (A A H Pharmaceuticals Ltd)
+vmp,28808611000001100,0603020T0AAABAB,Prednisolone 2.5mg tablets
+amp,85511000001101,0603020T0AAACAC,Prednisolone 5mg tablets (Actavis UK Ltd)
+amp,86711000001103,0603020T0AAACAC,Prednisolone 5mg tablets (The Boots Company Plc)
+amp,110811000001100,0603020T0AAACAC,Prednisolone 5mg tablets (Teva UK Ltd)
+amp,350611000001104,0603020T0AAACAC,Prednisolone 5mg tablets (Kent Pharmaceuticals Ltd)
+amp,772111000001107,0603020T0AAACAC,Prednisolone 5mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,876911000001107,0603020T0AAACAC,Prednisolone 5mg tablets (A A H Pharmaceuticals Ltd)
+amp,940311000001100,0603020T0AAACAC,Prednisolone 5mg tablets (Wockhardt UK Ltd)
+amp,9807911000001105,0603020T0AAACAC,Prednisolone 5mg tablets (Almus Pharmaceuticals Ltd)
+amp,10410111000001103,0603020T0AAACAC,Prednisolone 5mg tablets (Arrow Generics Ltd)
+amp,14786811000001101,0603020T0AAACAC,Prednisolone 5mg tablets (Boston Healthcare Ltd)
+amp,18285211000001104,0603020T0AAACAC,Prednisolone 5mg tablets (Strides Pharma UK Ltd)
+amp,18625211000001107,0603020T0AAACAC,Prednisolone 5mg tablets (Phoenix Healthcare Distribution Ltd)
+amp,21851411000001106,0603020T0AAACAC,Prednisolone 5mg tablets (Waymade Healthcare Plc)
+amp,30115011000001109,0603020T0AAACAC,Prednisolone 5mg tablets (DE Pharmaceuticals)
+amp,30859111000001105,0603020T0AAACAC,Prednisolone 5mg tablets (Mawdsley-Brooks & Company Ltd)
+amp,32808311000001101,0603020T0AAACAC,Prednisolone 5mg tablets (Genesis Pharmaceuticals Ltd)
+vmp,325427002,0603020T0AAACAC,Prednisolone 5mg tablets
+amp,4752611000001107,0603020T0AAAEAE,Prednisolone 50mg tablets (A A H Pharmaceuticals Ltd)
+amp,4752811000001106,0603020T0AAAEAE,Prednisolone 50mg tablets (Approved Prescription Services Ltd)
+vmp,325445002,0603020T0AAAEAE,Prednisolone 50mg tablets
+amp,380011000001100,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Accord Healthcare Ltd)
+amp,685311000001104,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Kent Pharmaceuticals Ltd)
+amp,779211000001109,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd)
+amp,858811000001104,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)
+amp,4208511000001105,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Approved Prescription Services Ltd)
+amp,15175711000001107,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Sigma Pharmaceuticals Plc)
+amp,17916411000001100,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd)
+amp,17999311000001104,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd)
+amp,18307011000001109,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Teva UK Ltd)
+amp,19743011000001109,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Almus Pharmaceuticals Ltd)
+amp,22452711000001102,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Waymade Healthcare Plc)
+amp,30114011000001105,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (DE Pharmaceuticals)
+amp,36568211000001107,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Bristol Laboratories Ltd)
+amp,37130211000001109,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd)
+vmp,325442004,0603020T0AAAFAF,Prednisolone 2.5mg gastro-resistant tablets
+amp,255211000001101,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd)
+amp,447211000001105,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Kent Pharmaceuticals Ltd)
+amp,512811000001108,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Accord Healthcare Ltd)
+amp,662011000001105,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)
+amp,4208911000001103,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Approved Prescription Services Ltd)
+amp,15176111000001100,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Sigma Pharmaceuticals Plc)
+amp,17916811000001103,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Phoenix Healthcare Distribution Ltd)
+amp,17999611000001109,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd)
+amp,18307211000001104,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Teva UK Ltd)
+amp,19743211000001104,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Almus Pharmaceuticals Ltd)
+amp,22453011000001108,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Waymade Healthcare Plc)
+amp,30114311000001108,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (DE Pharmaceuticals)
+amp,34444511000001106,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Bristol Laboratories Ltd)
+amp,37130611000001106,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd)
+vmp,325443009,0603020T0AAAGAG,Prednisolone 5mg gastro-resistant tablets
+amp,313911000001107,0603020T0AAARAR,Prednisolone 25mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,716111000001103,0603020T0AAARAR,Prednisolone 25mg tablets (A A H Pharmaceuticals Ltd)
+amp,4852811000001108,0603020T0AAARAR,Prednisolone 25mg tablets (Zentiva)
+amp,17917211000001102,0603020T0AAARAR,Prednisolone 25mg tablets (Phoenix Healthcare Distribution Ltd)
+amp,30991311000001108,0603020T0AAARAR,Prednisolone 25mg tablets (Accord Healthcare Ltd)
+amp,37131011000001108,0603020T0AAARAR,Prednisolone 25mg tablets (Mawdsley-Brooks & Company Ltd)
+amp,37778711000001106,0603020T0AAARAR,Prednisolone 25mg tablets (DE Pharmaceuticals)
+vmp,325450008,0603020T0AAARAR,Prednisolone 25mg tablets
+amp,32584711000001105,0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd)
+amp,33425811000001105,0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)
+amp,33428411000001103,0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets (Alliance Healthcare (Distribution) Ltd)
+amp,37130011000001104,0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets (Mawdsley-Brooks & Company Ltd)
+amp,37778311000001107,0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets (DE Pharmaceuticals)
+vmp,32611811000001105,0603020T0AAATAT,Prednisolone 1mg gastro-resistant tablets
+amp,32773211000001105,0603020T0AAAXAX,Prednisolone 20mg tablets (Accord Healthcare Ltd)
+amp,32776511000001100,0603020T0AAAXAX,Prednisolone 20mg tablets (A A H Pharmaceuticals Ltd)
+vmp,28808711000001109,0603020T0AAAXAX,Prednisolone 20mg tablets
+amp,13055311000001107,0603020T0AAAYAY,Prednisolone 15mg/5ml oral suspension (Special Order)
+amp,13055911000001108,0603020T0AAAYAY,Prednisolone 15mg/5ml oral solution (Special Order)
+vmp,416533002,0603020T0AAAYAY,Prednisolone 15mg/5ml oral solution
+vmp,432225008,0603020T0AAAYAY,Prednisolone 15mg/5ml oral suspension
+amp,13120111000001109,0603020T0AAAZAZ,Prednisolone 5mg/5ml oral suspension (Special Order)
+amp,13120411000001104,0603020T0AAAZAZ,Prednisolone 5mg/5ml oral solution (Special Order)
+vmp,432224007,0603020T0AAAZAZ,Prednisolone 5mg/5ml oral suspension
+vmp,13133111000001100,0603020T0AAAZAZ,Prednisolone 5mg/5ml oral solution
+amp,13053211000001103,0603020T0AABBBB,Prednisolone 1.5mg/5ml oral suspension (Special Order)
+amp,13053711000001105,0603020T0AABBBB,Prednisolone 1.5mg/5ml oral solution (Special Order)
+vmp,13078311000001101,0603020T0AABBBB,Prednisolone 1.5mg/5ml oral solution
+vmp,13078411000001108,0603020T0AABBBB,Prednisolone 1.5mg/5ml oral suspension
+amp,13054411000001101,0603020T0AABCBC,Prednisolone 10mg/5ml oral suspension (Special Order)
+amp,13054711000001107,0603020T0AABCBC,Prednisolone 10mg/5ml oral solution (Special Order)
+vmp,429995001,0603020T0AABCBC,Prednisolone 10mg/5ml oral solution
+vmp,13078611000001106,0603020T0AABCBC,Prednisolone 10mg/5ml oral suspension
+amp,13058611000001108,0603020T0AABDBD,Prednisolone 25mg/5ml oral suspension (Special Order)
+amp,13058911000001102,0603020T0AABDBD,Prednisolone 25mg/5ml oral solution (Special Order)
+vmp,13079511000001101,0603020T0AABDBD,Prednisolone 25mg/5ml oral solution
+vmp,13079611000001102,0603020T0AABDBD,Prednisolone 25mg/5ml oral suspension
+amp,8651111000001103,0603020T0AABEBE,Prednisolone 2mg/5ml oral suspension (Special Order)
+vmp,8672011000001109,0603020T0AABEBE,Prednisolone 2mg/5ml oral suspension
+amp,13056211000001105,0603020T0AABFBF,Prednisolone 1mg/5ml oral suspension (Special Order)
+amp,13056511000001108,0603020T0AABFBF,Prednisolone 1mg/5ml oral solution (Special Order)
+vmp,13078911000001100,0603020T0AABFBF,Prednisolone 1mg/5ml oral solution
+vmp,13079011000001109,0603020T0AABFBF,Prednisolone 1mg/5ml oral suspension
+amp,13058011000001101,0603020T0AABGBG,Prednisolone 20mg/5ml oral suspension (Special Order)
+amp,13058311000001103,0603020T0AABGBG,Prednisolone 20mg/5ml oral solution (Special Order)
+vmp,13079311000001107,0603020T0AABGBG,Prednisolone 20mg/5ml oral solution
+vmp,13079411000001100,0603020T0AABGBG,Prednisolone 20mg/5ml oral suspension
+amp,157711000001100,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Alliance Healthcare (Distribution) Ltd)
+amp,245011000001108,0603020T0AABHBH,Prednisolone 5mg soluble tablets (A A H Pharmaceuticals Ltd)
+amp,392511000001108,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Advanz Pharma)
+amp,28937511000001104,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Focus Pharmaceuticals Ltd)
+amp,30114611000001103,0603020T0AABHBH,Prednisolone 5mg soluble tablets (DE Pharmaceuticals)
+amp,34035411000001102,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Actavis UK Ltd)
+amp,34172711000001106,0603020T0AABHBH,Prednisolone 5mg soluble tablets (Phoenix Labs Ltd)
+vmp,325444003,0603020T0AABHBH,Prednisolone 5mg soluble tablets
+amp,13056811000001106,0603020T0AABIBI,Prednisolone 2.5mg/5ml oral suspension (Special Order)
+amp,13057411000001106,0603020T0AABIBI,Prednisolone 2.5mg/5ml oral solution (Special Order)
+vmp,13079111000001105,0603020T0AABIBI,Prednisolone 2.5mg/5ml oral solution
+vmp,13079211000001104,0603020T0AABIBI,Prednisolone 2.5mg/5ml oral suspension
+amp,14173111000001101,0603020T0AABJBJ,Prednisolone 1.67mg/5ml oral solution (Special Order)
+amp,14173511000001105,0603020T0AABJBJ,Prednisolone 1.67mg/5ml oral suspension (Special Order)
+vmp,14204411000001101,0603020T0AABJBJ,Prednisolone 1.67mg/5ml oral solution
+vmp,14204511000001102,0603020T0AABJBJ,Prednisolone 1.67mg/5ml oral suspension
+amp,32771211000001106,0603020T0AABKBK,Prednisolone 10mg tablets (Accord Healthcare Ltd)
+amp,32776311000001106,0603020T0AABKBK,Prednisolone 10mg tablets (A A H Pharmaceuticals Ltd)
+vmp,28808411000001103,0603020T0AABKBK,Prednisolone 10mg tablets
+amp,29361211000001105,0603020T0AABLBL,Prednisolone 5mg/5ml oral solution unit dose (Logixx Pharma Solutions Ltd)
+amp,29559211000001100,0603020T0AABLBL,Prednisolone 5mg/5ml oral solution unit dose (A A H Pharmaceuticals Ltd)
+amp,32688311000001106,0603020T0AABLBL,Prednisolone 5mg/5ml oral solution unit dose (Alliance Healthcare (Distribution) Ltd)
+vmp,29424511000001109,0603020T0AABLBL,Prednisolone 5mg/5ml oral solution unit dose
+amp,29879111000001105,0603020T0AABMBM,Prednisolone 10mg/ml oral solution sugar free (Advanz Pharma)
+amp,30129111000001103,0603020T0AABMBM,Prednisolone 10mg/ml oral solution sugar free (A A H Pharmaceuticals Ltd)
+amp,37778511000001101,0603020T0AABMBM,Prednisolone 10mg/ml oral solution sugar free (DE Pharmaceuticals)
+amp,37941611000001100,0603020T0AABMBM,Prednisolone 10mg/ml oral solution sugar free (Alliance Healthcare (Distribution) Ltd)
+vmp,29904211000001102,0603020T0AABMBM,Prednisolone 10mg/ml oral solution sugar free
+amp,32774411000001107,0603020T0AABNBN,Prednisolone 30mg tablets (Actavis UK Ltd)
+amp,32776711000001105,0603020T0AABNBN,Prednisolone 30mg tablets (A A H Pharmaceuticals Ltd)
+vmp,32781411000001102,0603020T0AABNBN,Prednisolone 30mg tablets
+amp,459611000001100,0603020T0BCAAAF,Deltacortril 2.5mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd)
+amp,331111000001100,0603020T0BCABAG,Deltacortril 5mg gastro-resistant tablets (Alliance Pharmaceuticals Ltd)
+amp,22519711000001105,0603020T0BKAAAF,Dilacort 2.5mg gastro-resistant tablets (Auden McKenzie (Pharma Division) Ltd)
+amp,22520311000001107,0603020T0BKABAG,Dilacort 5mg gastro-resistant tablets (Auden McKenzie (Pharma Division) Ltd)
+amp,28798211000001102,0603020T0BLAAAB,Pevanti 2.5mg tablets (Advanz Pharma)
+amp,28799011000001102,0603020T0BLABAC,Pevanti 5mg tablets (Advanz Pharma)
+amp,28799311000001104,0603020T0BLACBK,Pevanti 10mg tablets (Advanz Pharma)
+amp,28799611000001109,0603020T0BLADAX,Pevanti 20mg tablets (Advanz Pharma)
+amp,28799811000001108,0603020T0BLAEAD,Pevanti 25mg tablets (Advanz Pharma)
+amp,32652311000001103,0603020T0BNAAAF,Dilacort 2.5mg gastro-resistant tablets (Crescent Pharma Ltd)
+amp,32652511000001109,0603020T0BNABAG,Dilacort 5mg gastro-resistant tablets (Crescent Pharma Ltd)
+amp,33577711000001104,0603020T0BPAAAF,Dilacort 2.5mg gastro-resistant tablets (Teva UK Ltd)
+amp,33577911000001102,0603020T0BPABAG,Dilacort 5mg gastro-resistant tablets (Teva UK Ltd)
+vmp,327072003,0802010G0AAAAAA,Azathioprine 50mg powder for solution for injection vials
+amp,338311000001105,0802010G0AAADAD,Azathioprine 25mg tablets (Kent Pharmaceuticals Ltd)
+amp,544611000001107,0802010G0AAADAD,Azathioprine 25mg tablets (Mylan)
+amp,611111000001100,0802010G0AAADAD,Azathioprine 25mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,744711000001104,0802010G0AAADAD,Azathioprine 25mg tablets (A A H Pharmaceuticals Ltd)
+amp,3695011000001108,0802010G0AAADAD,Azathioprine 25mg tablets (IVAX Pharmaceuticals UK Ltd)
+amp,5866911000001101,0802010G0AAADAD,Azathioprine 25mg tablets (Actavis UK Ltd)
+amp,8388611000001100,0802010G0AAADAD,Azathioprine 25mg tablets (Teva UK Ltd)
+amp,13740711000001100,0802010G0AAADAD,Azathioprine 25mg tablets (Tillomed Laboratories Ltd)
+amp,15070411000001103,0802010G0AAADAD,Azathioprine 25mg tablets (Sigma Pharmaceuticals Plc)
+amp,17789111000001105,0802010G0AAADAD,Azathioprine 25mg tablets (Phoenix Healthcare Distribution Ltd)
+amp,21780411000001106,0802010G0AAADAD,Azathioprine 25mg tablets (Waymade Healthcare Plc)
+amp,22614111000001101,0802010G0AAADAD,Azathioprine 25mg tablets (DE Pharmaceuticals)
+amp,24505211000001107,0802010G0AAADAD,Azathioprine 25mg tablets (Sandoz Ltd)
+amp,29997811000001108,0802010G0AAADAD,Azathioprine 25mg tablets (Mawdsley-Brooks & Company Ltd)
+vmp,327071005,0802010G0AAADAD,Azathioprine 25mg tablets
+amp,41911000001104,0802010G0AAAEAE,Azathioprine 50mg tablets (A A H Pharmaceuticals Ltd)
+amp,178511000001107,0802010G0AAAEAE,Azathioprine 50mg tablets (IVAX Pharmaceuticals UK Ltd)
+amp,339911000001103,0802010G0AAAEAE,Azathioprine 50mg tablets (Actavis UK Ltd)
+amp,428011000001101,0802010G0AAAEAE,Azathioprine 50mg tablets (Sandoz Ltd)
+amp,715511000001100,0802010G0AAAEAE,Azathioprine 50mg tablets (Teva UK Ltd)
+amp,843311000001103,0802010G0AAAEAE,Azathioprine 50mg tablets (Mylan)
+amp,863111000001105,0802010G0AAAEAE,Azathioprine 50mg tablets (Kent Pharmaceuticals Ltd)
+amp,888811000001106,0802010G0AAAEAE,Azathioprine 50mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,10288111000001102,0802010G0AAAEAE,Azathioprine 50mg tablets (Focus Pharmaceuticals Ltd)
+amp,13386711000001105,0802010G0AAAEAE,Azathioprine 50mg tablets (Arrow Generics Ltd)
+amp,13740911000001103,0802010G0AAAEAE,Azathioprine 50mg tablets (Tillomed Laboratories Ltd)
+amp,15070611000001100,0802010G0AAAEAE,Azathioprine 50mg tablets (Sigma Pharmaceuticals Plc)
+amp,17790011000001100,0802010G0AAAEAE,Azathioprine 50mg tablets (Phoenix Healthcare Distribution Ltd)
+amp,18280311000001100,0802010G0AAAEAE,Azathioprine 50mg tablets (Strides Pharma UK Ltd)
+amp,18497511000001105,0802010G0AAAEAE,Azathioprine 50mg tablets (Almus Pharmaceuticals Ltd)
+amp,21780711000001100,0802010G0AAAEAE,Azathioprine 50mg tablets (Waymade Healthcare Plc)
+amp,22615211000001108,0802010G0AAAEAE,Azathioprine 50mg tablets (DE Pharmaceuticals)
+amp,27990111000001105,0802010G0AAAEAE,Azathioprine 50mg tablets (Ennogen Healthcare Ltd)
+amp,29998111000001100,0802010G0AAAEAE,Azathioprine 50mg tablets (Mawdsley-Brooks & Company Ltd)
+amp,36105511000001109,0802010G0AAAEAE,Azathioprine 50mg tablets (Ennogen Pharma Ltd)
+amp,37077111000001106,0802010G0AAAEAE,Azathioprine 50mg tablets (Relonchem Ltd)
+vmp,327070006,0802010G0AAAEAE,Azathioprine 50mg tablets
+amp,8733511000001103,0802010G0AAAHAH,Azathioprine 10mg capsules (Special Order)
+vmp,8791311000001100,0802010G0AAAHAH,Azathioprine 10mg capsules
+amp,8274811000001106,0802010G0AAAPAP,Azathioprine 50mg/5ml oral solution (Special Order)
+vmp,8308511000001103,0802010G0AAAPAP,Azathioprine 50mg/5ml oral solution
+amp,8272311000001109,0802010G0AAAQAQ,Azathioprine 40mg/5ml oral solution (Special Order)
+amp,8277711000001105,0802010G0AAAQAQ,Azathioprine 40mg/5ml oral suspension (Special Order)
+vmp,8308611000001104,0802010G0AAAQAQ,Azathioprine 40mg/5ml oral suspension
+vmp,8308711000001108,0802010G0AAAQAQ,Azathioprine 40mg/5ml oral solution
+amp,8262811000001108,0802010G0AAARAR,Azathioprine 10mg/5ml oral solution (Special Order)
+amp,8264111000001109,0802010G0AAARAR,Azathioprine 10mg/5ml oral suspension (Special Order)
+vmp,8282111000001104,0802010G0AAARAR,Azathioprine 10mg/5ml oral solution
+vmp,8282211000001105,0802010G0AAARAR,Azathioprine 10mg/5ml oral suspension
+amp,8268711000001102,0802010G0AAASAS,Azathioprine 25mg/5ml oral solution (Special Order)
+vmp,8284011000001106,0802010G0AAASAS,Azathioprine 25mg/5ml oral solution
+amp,8279411000001108,0802010G0AAATAT,Azathioprine 75mg/5ml oral solution (Special Order)
+amp,8280411000001108,0802010G0AAATAT,Azathioprine 75mg/5ml oral suspension (Special Order)
+vmp,8307811000001104,0802010G0AAATAT,Azathioprine 75mg/5ml oral suspension
+vmp,8307911000001109,0802010G0AAATAT,Azathioprine 75mg/5ml oral solution
+amp,8263111000001107,0802010G0AAAUAU,Azathioprine 15mg/5ml oral solution (Special Order)
+amp,8264311000001106,0802010G0AAAUAU,Azathioprine 15mg/5ml oral suspension (Special Order)
+vmp,8283111000001105,0802010G0AAAUAU,Azathioprine 15mg/5ml oral solution
+vmp,8283211000001104,0802010G0AAAUAU,Azathioprine 15mg/5ml oral suspension
+amp,8259811000001108,0802010G0AAAVAV,Azathioprine 100mg/5ml oral solution (Special Order)
+vmp,8281911000001107,0802010G0AAAVAV,Azathioprine 100mg/5ml oral solution
+amp,8267211000001105,0802010G0AAAWAW,Azathioprine 20mg/5ml oral solution (Special Order)
+vmp,8283811000001103,0802010G0AAAWAW,Azathioprine 20mg/5ml oral solution
+amp,12068711000001104,0802010G0AAAXAX,Azathioprine 125mg/5ml oral suspension (Special Order)
+amp,12069011000001106,0802010G0AAAXAX,Azathioprine 125mg/5ml oral solution (Special Order)
+vmp,12080411000001105,0802010G0AAAXAX,Azathioprine 125mg/5ml oral solution
+vmp,12080511000001109,0802010G0AAAXAX,Azathioprine 125mg/5ml oral suspension
+amp,8273411000001106,0802010G0AAAYAY,Azathioprine 5mg/5ml oral solution (Special Order)
+amp,8275911000001102,0802010G0AAAYAY,Azathioprine 5mg/5ml oral suspension (Special Order)
+vmp,8308211000001101,0802010G0AAAYAY,Azathioprine 5mg/5ml oral suspension
+vmp,8308311000001109,0802010G0AAAYAY,Azathioprine 5mg/5ml oral solution
+amp,12212311000001105,0802010G0AABABA,Azathioprine 45mg/5ml oral suspension (Special Order)
+amp,12215411000001106,0802010G0AABABA,Azathioprine 45mg/5ml oral solution (Special Order)
+vmp,12211911000001100,0802010G0AABABA,Azathioprine 45mg/5ml oral suspension
+vmp,12221811000001102,0802010G0AABABA,Azathioprine 45mg/5ml oral solution
+amp,12214811000001107,0802010G0AABBBB,Azathioprine 7mg/5ml oral suspension (Special Order)
+amp,12217811000001103,0802010G0AABBBB,Azathioprine 7mg/5ml oral solution (Special Order)
+vmp,12222311000001102,0802010G0AABBBB,Azathioprine 7mg/5ml oral solution
+vmp,12222411000001109,0802010G0AABBBB,Azathioprine 7mg/5ml oral suspension
+amp,8268511000001107,0802010G0AABCBC,Azathioprine 30mg/5ml oral solution (Special Order)
+amp,8269111000001105,0802010G0AABCBC,Azathioprine 30mg/5ml oral suspension (Special Order)
+vmp,8284211000001101,0802010G0AABCBC,Azathioprine 30mg/5ml oral solution
+vmp,8308811000001100,0802010G0AABCBC,Azathioprine 30mg/5ml oral suspension
+amp,8264611000001101,0802010G0AABDBD,Azathioprine 17.5mg/5ml oral solution (Special Order)
+amp,8266011000001103,0802010G0AABDBD,Azathioprine 17.5mg/5ml oral suspension (Special Order)
+vmp,8283311000001107,0802010G0AABDBD,Azathioprine 17.5mg/5ml oral solution
+vmp,8283411000001100,0802010G0AABDBD,Azathioprine 17.5mg/5ml oral suspension
+amp,12093611000001103,0802010G0AABEBE,Azathioprine 35mg/5ml oral suspension (Special Order)
+amp,12093911000001109,0802010G0AABEBE,Azathioprine 35mg/5ml oral solution (Special Order)
+vmp,12097211000001109,0802010G0AABEBE,Azathioprine 35mg/5ml oral solution
+vmp,12097311000001101,0802010G0AABEBE,Azathioprine 35mg/5ml oral suspension
+amp,12209611000001109,0802010G0AABFBF,Azathioprine 37.5mg/5ml oral suspension (Special Order)
+amp,12210411000001104,0802010G0AABFBF,Azathioprine 37.5mg/5ml oral solution (Special Order)
+vmp,12211711000001102,0802010G0AABFBF,Azathioprine 37.5mg/5ml oral solution
+vmp,12211811000001105,0802010G0AABFBF,Azathioprine 37.5mg/5ml oral suspension
+amp,8288511000001105,0802010G0AABGBG,Azathioprine 60mg/5ml oral solution (Special Order)
+amp,8290111000001102,0802010G0AABGBG,Azathioprine 60mg/5ml oral suspension (Special Order)
+vmp,8308011000001106,0802010G0AABGBG,Azathioprine 60mg/5ml oral suspension
+vmp,8308111000001107,0802010G0AABGBG,Azathioprine 60mg/5ml oral solution
+amp,12093011000001105,0802010G0AABIBI,Azathioprine 200mg/5ml oral suspension (Special Order)
+amp,12093311000001108,0802010G0AABIBI,Azathioprine 200mg/5ml oral solution (Special Order)
+vmp,12097011000001104,0802010G0AABIBI,Azathioprine 200mg/5ml oral solution
+vmp,12097111000001103,0802010G0AABIBI,Azathioprine 200mg/5ml oral suspension
+amp,12070311000001107,0802010G0AABJBJ,Azathioprine 175mg/5ml oral suspension (Special Order)
+amp,12070911000001108,0802010G0AABJBJ,Azathioprine 175mg/5ml oral solution (Special Order)
+vmp,12080611000001108,0802010G0AABJBJ,Azathioprine 175mg/5ml oral solution
+vmp,12080711000001104,0802010G0AABJBJ,Azathioprine 175mg/5ml oral suspension
+amp,12092411000001105,0802010G0AABKBK,Azathioprine 17mg/5ml oral suspension (Special Order)
+amp,12092711000001104,0802010G0AABKBK,Azathioprine 17mg/5ml oral solution (Special Order)
+vmp,12096811000001108,0802010G0AABKBK,Azathioprine 17mg/5ml oral solution
+vmp,12096911000001103,0802010G0AABKBK,Azathioprine 17mg/5ml oral suspension
+amp,8742911000001104,0802010G0AABPBP,Azathioprine 5mg capsules (Special Order)
+vmp,8791511000001106,0802010G0AABPBP,Azathioprine 5mg capsules
+amp,8743211000001102,0802010G0AABRBR,Azathioprine 30mg capsules (Special Order)
+vmp,8791411000001107,0802010G0AABRBR,Azathioprine 30mg capsules
+amp,8265411000001103,0802010G0AABSBS,Azathioprine 12mg/5ml oral solution (Special Order)
+amp,8266211000001108,0802010G0AABSBS,Azathioprine 12mg/5ml oral suspension (Special Order)
+vmp,8282511000001108,0802010G0AABSBS,Azathioprine 12mg/5ml oral solution
+vmp,8282611000001107,0802010G0AABSBS,Azathioprine 12mg/5ml oral suspension
+amp,12213811000001109,0802010G0AABTBT,Azathioprine 4mg/5ml oral suspension (Special Order)
+amp,12216011000001106,0802010G0AABTBT,Azathioprine 4mg/5ml oral solution (Special Order)
+vmp,12221911000001107,0802010G0AABTBT,Azathioprine 4mg/5ml oral solution
+vmp,12222011000001100,0802010G0AABTBT,Azathioprine 4mg/5ml oral suspension
+amp,8260411000001105,0802010G0AABXBX,Azathioprine 120mg/5ml oral solution (Special Order)
+amp,8260811000001107,0802010G0AABXBX,Azathioprine 120mg/5ml oral suspension (Special Order)
+vmp,8282311000001102,0802010G0AABXBX,Azathioprine 120mg/5ml oral solution
+vmp,8282411000001109,0802010G0AABXBX,Azathioprine 120mg/5ml oral suspension
+amp,8261211000001100,0802010G0AABYBY,Azathioprine 150mg/5ml oral solution (Special Order)
+amp,8262911000001103,0802010G0AABYBY,Azathioprine 150mg/5ml oral suspension (Special Order)
+vmp,8282911000001101,0802010G0AABYBY,Azathioprine 150mg/5ml oral solution
+vmp,8283011000001109,0802010G0AABYBY,Azathioprine 150mg/5ml oral suspension
+amp,12214511000001109,0802010G0AABZBZ,Azathioprine 70mg/5ml oral suspension (Special Order)
+amp,12217411000001100,0802010G0AABZBZ,Azathioprine 70mg/5ml oral solution (Special Order)
+vmp,12222111000001104,0802010G0AABZBZ,Azathioprine 70mg/5ml oral solution
+vmp,12222211000001105,0802010G0AABZBZ,Azathioprine 70mg/5ml oral suspension
+amp,8265911000001106,0802010G0AACBCB,Azathioprine 2.5mg/5ml oral solution (Special Order)
+amp,8267811000001106,0802010G0AACBCB,Azathioprine 2.5mg/5ml oral suspension (Special Order)
+vmp,8283511000001101,0802010G0AACBCB,Azathioprine 2.5mg/5ml oral solution
+vmp,8283611000001102,0802010G0AACBCB,Azathioprine 2.5mg/5ml oral suspension
+amp,12215111000001101,0802010G0AACCCC,Azathioprine 80mg/5ml oral suspension (Special Order)
+amp,12218111000001106,0802010G0AACCCC,Azathioprine 80mg/5ml oral solution (Special Order)
+vmp,12222511000001108,0802010G0AACCCC,Azathioprine 80mg/5ml oral solution
+vmp,12222611000001107,0802010G0AACCCC,Azathioprine 80mg/5ml oral suspension
+amp,8291411000001103,0802010G0AACDCD,Azathioprine 90mg/5ml oral solution (Special Order)
+amp,8292211000001109,0802010G0AACDCD,Azathioprine 90mg/5ml oral suspension (Special Order)
+vmp,8307511000001102,0802010G0AACDCD,Azathioprine 90mg/5ml oral suspension
+vmp,8307711000001107,0802010G0AACDCD,Azathioprine 90mg/5ml oral solution
+amp,8262111000001101,0802010G0AACECE,Azathioprine 13mg/5ml oral solution (Special Order)
+amp,8263511000001103,0802010G0AACECE,Azathioprine 13mg/5ml oral suspension (Special Order)
+vmp,8282711000001103,0802010G0AACECE,Azathioprine 13mg/5ml oral solution
+vmp,8282811000001106,0802010G0AACECE,Azathioprine 13mg/5ml oral suspension
+amp,16012511000001109,0802010G0AACGCG,Azathioprine 250mg/5ml oral solution (Special Order)
+amp,16014711000001109,0802010G0AACGCG,Azathioprine 250mg/5ml oral suspension (Special Order)
+vmp,16035911000001102,0802010G0AACGCG,Azathioprine 250mg/5ml oral solution
+vmp,16036011000001105,0802010G0AACGCG,Azathioprine 250mg/5ml oral suspension
+amp,8278511000001101,0802010G0AACHCH,Azathioprine 50mg/5ml oral suspension (Drug Tariff Special Order)
+vmp,8308411000001102,0802010G0AACHCH,Azathioprine 50mg/5ml oral suspension
+amp,8269711000001106,0802010G0AACICI,Azathioprine 25mg/5ml oral suspension (Drug Tariff Special Order)
+vmp,8284111000001107,0802010G0AACICI,Azathioprine 25mg/5ml oral suspension
+amp,8260111000001100,0802010G0AACJCJ,Azathioprine 100mg/5ml oral suspension (Drug Tariff Special Order)
+vmp,8282011000001100,0802010G0AACJCJ,Azathioprine 100mg/5ml oral suspension
+amp,8268111000001103,0802010G0AACKCK,Azathioprine 20mg/5ml oral suspension (Drug Tariff Special Order)
+vmp,8283911000001108,0802010G0AACKCK,Azathioprine 20mg/5ml oral suspension
+amp,31000011000001104,0802010G0AACLCL,Azathioprine 65mg/5ml oral suspension (Special Order)
+vmp,31002111000001104,0802010G0AACLCL,Azathioprine 65mg/5ml oral suspension
+amp,284711000001102,0802010G0BCAAAD,Imuran 25mg tablets (Aspen Pharma Trading Ltd)
+amp,675711000001108,0802010G0BCABAE,Imuran 50mg tablets (Aspen Pharma Trading Ltd)
+amp,906711000001106,0802010G0BCACAA,Imuran 50mg powder for solution for injection vials (Aspen Pharma Trading Ltd)
+amp,318611000001108,0802010G0BEAAAE,Immunoprin 50mg tablets (Ashbourne Pharmaceuticals Ltd)
+amp,26658011000001100,0802010G0BHAAAE,Azapress 50mg tablets (Ennogen Pharma Ltd)
+amp,18164311000001107,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Actavis UK Ltd)
+amp,18310411000001102,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (A A H Pharmaceuticals Ltd)
+amp,18342411000001105,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Alliance Healthcare (Distribution) Ltd)
+amp,18464211000001103,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Accord Healthcare Ltd)
+amp,18477711000001105,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Dr Reddy's Laboratories (UK) Ltd)
+amp,18622711000001109,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Phoenix Healthcare Distribution Ltd)
+amp,18728911000001102,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Sigma Pharmaceuticals Plc)
+amp,20312011000001106,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Sandoz Ltd)
+amp,21808611000001106,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Waymade Healthcare Plc)
+amp,21842611000001101,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Cubic Pharmaceuticals Ltd)
+amp,22352411000001100,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (AM Distributions (Yorkshire) Ltd)
+amp,22409911000001101,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (DE Pharmaceuticals)
+amp,22605811000001106,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Colorama Pharmaceuticals Ltd)
+amp,23218811000001105,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (J M McGill Ltd)
+amp,23958811000001104,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Niche Pharma Ltd)
+amp,24028011000001102,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (CST Pharma Ltd)
+amp,24571011000001105,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Mawdsley-Brooks & Company Ltd)
+amp,25881711000001105,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Icarus Pharmaceuticals Ltd)
+amp,32424411000001104,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules (Kent Pharmaceuticals Ltd)
+vmp,327104000,0802010M0AAAAAA,Mycophenolate mofetil 250mg capsules
+amp,18164511000001101,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (Actavis UK Ltd)
+amp,18310611000001104,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (A A H Pharmaceuticals Ltd)
+amp,18342611000001108,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (Alliance Healthcare (Distribution) Ltd)
+amp,18412111000001102,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (Mylan)
+amp,18464411000001104,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (Accord Healthcare Ltd)
+amp,18477511000001100,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (Dr Reddy's Laboratories (UK) Ltd)
+amp,18622911000001106,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (Phoenix Healthcare Distribution Ltd)
+amp,18730111000001104,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (Sigma Pharmaceuticals Plc)
+amp,19429811000001107,0802010M0AAABAB,Mycophenolate motefil 500mg tablets (Wockhardt UK Ltd)
+amp,20312211000001101,0802010M0AAABAB,Mycophenolate motefil 500mg tablets (Sandoz Ltd)
+amp,21808811000001105,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (Waymade Healthcare Plc)
+amp,22464411000001109,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (Arrow Generics Ltd)
+amp,24405511000001101,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (DE Pharmaceuticals)
+amp,30849511000001103,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (Mawdsley-Brooks & Company Ltd)
+amp,32424611000001101,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (Kent Pharmaceuticals Ltd)
+amp,35725211000001106,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets (Tillomed Laboratories Ltd)
+vmp,327106003,0802010M0AAABAB,Mycophenolate mofetil 500mg tablets
+amp,12986311000001108,0802010M0AAACAC,Mycophenolate mofetil 250mg/5ml oral suspension (Special Order)
+vmp,13000511000001100,0802010M0AAACAC,Mycophenolate mofetil 250mg/5ml oral suspension
+amp,12987211000001103,0802010M0AAADAD,Mycophenolate mofetil 300mg/5ml oral suspension (Special Order)
+vmp,13000611000001101,0802010M0AAADAD,Mycophenolate mofetil 300mg/5ml oral suspension
+amp,12988111000001105,0802010M0AAAEAE,Mycophenolate mofetil 500mg/5ml oral suspension (Special Order)
+vmp,13000711000001105,0802010M0AAAEAE,Mycophenolate mofetil 500mg/5ml oral suspension
+amp,12984311000001102,0802010M0AAAGAG,Mycophenolate mofetil 100mg/5ml oral suspension (Special Order)
+vmp,13000311000001106,0802010M0AAAGAG,Mycophenolate mofetil 100mg/5ml oral suspension
+amp,33341411000001104,0802010M0AAAHAH,Mycophenolate mofetil 500mg powder for concentrate for solution for infusion vials (Accord Healthcare Ltd)
+vmp,327109005,0802010M0AAAHAH,Mycophenolate mofetil 500mg powder for solution for infusion vials
+amp,12984911000001101,0802010M0AAAIAI,Mycophenolate mofetil 125mg/5ml oral suspension (Special Order)
+vmp,13000411000001104,0802010M0AAAIAI,Mycophenolate mofetil 125mg/5ml oral suspension
+vmp,4897811000001103,0802010M0AAAJAJ,Mycophenolate mofetil 1g/5ml oral suspension sugar free
+amp,3659911000001102,0802010M0BBAAAA,CellCept 250mg capsules (Roche Products Ltd)
+amp,3661611000001102,0802010M0BBABAB,CellCept 500mg tablets (Roche Products Ltd)
+amp,4346311000001104,0802010M0BBADAH,CellCept 500mg powder for solution for infusion vials (Roche Products Ltd)
+amp,4881311000001100,0802010M0BBAEAJ,CellCept 1g/5ml oral suspension (Roche Products Ltd)
+amp,18163911000001106,0802010M0BCAAAB,Myfenax 500mg tablets (Teva UK Ltd)
+amp,18164111000001105,0802010M0BCABAA,Myfenax 250mg capsules (Teva UK Ltd)
+amp,18166911000001100,0802010M0BDAAAA,Arzip 250mg capsules (Zentiva)
+amp,18166711000001102,0802010M0BDABAB,Arzip 500mg tablets (Zentiva)
+amp,34932711000001105,0802010N0AAAAAA,Mycophenolic acid 180mg gastro-resistant tablets (Accord Healthcare Ltd)
+amp,35335811000001106,0802010N0AAAAAA,Mycophenolic acid 180mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)
+vmp,8076911000001104,0802010N0AAAAAA,Mycophenolic acid 180mg gastro-resistant tablets
+amp,34932911000001107,0802010N0AAABAB,Mycophenolic acid 360mg gastro-resistant tablets (Accord Healthcare Ltd)
+amp,35336011000001109,0802010N0AAABAB,Mycophenolic acid 360mg gastro-resistant tablets (A A H Pharmaceuticals Ltd)
+vmp,8077011000001100,0802010N0AAABAB,Mycophenolic acid 360mg gastro-resistant tablets
+amp,8077511000001108,0802010N0BBAAAA,Myfortic 180mg gastro-resistant tablets (Novartis Pharmaceuticals UK Ltd)
+amp,8077811000001106,0802010N0BBABAB,Myfortic 360mg gastro-resistant tablets (Novartis Pharmaceuticals UK Ltd)
+amp,34809211000001105,0802010N0BCAAAA,Ceptava 180mg gastro-resistant tablets (Sandoz Ltd)
+amp,34809411000001109,0802010N0BCABAB,Ceptava 360mg gastro-resistant tablets (Sandoz Ltd)
+vmp,35907511000001100,0802020D0AAAAAA,Basiliximab 20mg powder and solvent for solution for injection vials
+vmp,35906211000001100,0802020D0AAABAB,Basiliximab 10mg powder and solvent for solution for injection vials
+amp,4773411000001103,0802020D0BBAAAA,Simulect 20mg powder and solvent for solution for injection vials (Novartis Pharmaceuticals UK Ltd)
+amp,5007811000001106,0802020D0BBABAB,Simulect 10mg powder and solvent for solution for injection vials (Novartis Pharmaceuticals UK Ltd)
+vmp,36140311000001101,0802020G0AAAAAA,Ciclosporin 50mg/1ml solution for infusion ampoules
+amp,16550511000001102,0802020G0AAACAC,Ciclosporin 25mg capsules (A A H Pharmaceuticals Ltd)
+amp,17856611000001101,0802020G0AAACAC,Ciclosporin 25mg capsules (Phoenix Healthcare Distribution Ltd)
+amp,21263111000001101,0802020G0AAACAC,Ciclosporin 25mg capsules (Sigma Pharmaceuticals Plc)
+amp,21835711000001102,0802020G0AAACAC,Ciclosporin 25mg capsules (Cubic Pharmaceuticals Ltd)
+amp,22408311000001108,0802020G0AAACAC,Ciclosporin 25mg capsules (DE Pharmaceuticals)
+amp,22604211000001109,0802020G0AAACAC,Ciclosporin 25mg capsules (Colorama Pharmaceuticals Ltd)
+amp,23428411000001104,0802020G0AAACAC,Ciclosporin 25mg capsules (J M McGill Ltd)
+amp,23936511000001102,0802020G0AAACAC,Ciclosporin 25mg capsules (Niche Pharma Ltd)
+amp,24157711000001107,0802020G0AAACAC,Ciclosporin 25mg capsules (Ethigen Ltd)
+amp,24519911000001104,0802020G0AAACAC,Ciclosporin 25mg capsules (Mawdsley-Brooks & Company Ltd)
+amp,25694011000001104,0802020G0AAACAC,Ciclosporin 25mg capsules (Icarus Pharmaceuticals Ltd)
+amp,26021211000001109,0802020G0AAACAC,Ciclosporin 25mg capsules (Ennogen Healthcare Ltd)
+amp,28122711000001107,0802020G0AAACAC,Ciclosporin 25mg capsules (Pharma-z Ltd)
+vmp,327082002,0802020G0AAACAC,Ciclosporin 25mg capsules
+amp,16550911000001109,0802020G0AAADAD,Ciclosporin 100mg capsules (A A H Pharmaceuticals Ltd)
+amp,17857011000001106,0802020G0AAADAD,Ciclosporin 100mg capsules (Phoenix Healthcare Distribution Ltd)
+amp,21263511000001105,0802020G0AAADAD,Ciclosporin 100mg capsules (Sigma Pharmaceuticals Plc)
+amp,21835311000001101,0802020G0AAADAD,Ciclosporin 100mg capsules (Cubic Pharmaceuticals Ltd)
+amp,22408711000001107,0802020G0AAADAD,Ciclosporin 100mg capsules (DE Pharmaceuticals)
+amp,22604011000001104,0802020G0AAADAD,Ciclosporin 100mg capsules (Colorama Pharmaceuticals Ltd)
+amp,23428211000001103,0802020G0AAADAD,Ciclosporin 100mg capsules (J M McGill Ltd)
+amp,23936311000001108,0802020G0AAADAD,Ciclosporin 100mg capsules (Niche Pharma Ltd)
+amp,24113511000001103,0802020G0AAADAD,Ciclosporin 100mg capsules (Lexon (UK) Ltd)
+amp,24158111000001107,0802020G0AAADAD,Ciclosporin 100mg capsules (Ethigen Ltd)
+amp,24520311000001104,0802020G0AAADAD,Ciclosporin 100mg capsules (Mawdsley-Brooks & Company Ltd)
+amp,25695111000001104,0802020G0AAADAD,Ciclosporin 100mg capsules (Icarus Pharmaceuticals Ltd)
+amp,26019111000001108,0802020G0AAADAD,Ciclosporin 100mg capsules (Ennogen Healthcare Ltd)
+amp,28122211000001100,0802020G0AAADAD,Ciclosporin 100mg capsules (Pharma-z Ltd)
+vmp,327083007,0802020G0AAADAD,Ciclosporin 100mg capsules
+vmp,36139511000001103,0802020G0AAAEAE,Ciclosporin 250mg/5ml solution for infusion ampoules
+amp,16550711000001107,0802020G0AAAFAF,Ciclosporin 50mg capsules (A A H Pharmaceuticals Ltd)
+amp,17856811000001102,0802020G0AAAFAF,Ciclosporin 50mg capsules (Phoenix Healthcare Distribution Ltd)
+amp,21263311000001104,0802020G0AAAFAF,Ciclosporin 50mg capsules (Sigma Pharmaceuticals Plc)
+amp,21835511000001107,0802020G0AAAFAF,Ciclosporin 50mg capsules (Cubic Pharmaceuticals Ltd)
+amp,22408511000001102,0802020G0AAAFAF,Ciclosporin 50mg capsules (DE Pharmaceuticals)
+amp,22604411000001108,0802020G0AAAFAF,Ciclosporin 50mg capsules (Colorama Pharmaceuticals Ltd)
+amp,23428611000001101,0802020G0AAAFAF,Ciclosporin 50mg capsules (J M McGill Ltd)
+amp,23936711000001107,0802020G0AAAFAF,Ciclosporin 50mg capsules (Niche Pharma Ltd)
+amp,24157911000001109,0802020G0AAAFAF,Ciclosporin 50mg capsules (Ethigen Ltd)
+amp,24520111000001101,0802020G0AAAFAF,Ciclosporin 50mg capsules (Mawdsley-Brooks & Company Ltd)
+amp,25694711000001102,0802020G0AAAFAF,Ciclosporin 50mg capsules (Icarus Pharmaceuticals Ltd)
+amp,26022211000001102,0802020G0AAAFAF,Ciclosporin 50mg capsules (Ennogen Healthcare Ltd)
+amp,28123311000001103,0802020G0AAAFAF,Ciclosporin 50mg capsules (Pharma-z Ltd)
+vmp,327085000,0802020G0AAAFAF,Ciclosporin 50mg capsules
+vmp,36139311000001109,0802020G0AAAGAG,Ciclosporin 100mg/ml oral solution sugar free
+vmp,327090002,0802020G0AAAHAH,Ciclosporin 10mg capsules
+amp,3490711000001103,0802020G0BBAAAG,Sandimmun 100mg/ml oral solution (Novartis Pharmaceuticals UK Ltd)
+amp,88611000001108,0802020G0BBABAE,Sandimmun 250mg/5ml concentrate for solution for infusion ampoules (Novartis Pharmaceuticals UK Ltd)
+amp,911911000001101,0802020G0BBACAA,Sandimmun 50mg/1ml concentrate for solution for infusion ampoules (Novartis Pharmaceuticals UK Ltd)
+amp,347811000001104,0802020G0BBADAC,Sandimmun 25mg capsules (Novartis Pharmaceuticals UK Ltd)
+amp,172611000001109,0802020G0BBAEAD,Sandimmun 100mg capsules (Novartis Pharmaceuticals UK Ltd)
+amp,638611000001108,0802020G0BBAFAF,Sandimmun 50mg capsules (Novartis Pharmaceuticals UK Ltd)
+amp,3490411000001109,0802020G0BCAAAG,Neoral 100mg/ml oral solution (Novartis Pharmaceuticals UK Ltd)
+amp,660811000001100,0802020G0BCABAC,Neoral 25mg capsules (Novartis Pharmaceuticals UK Ltd)
+amp,319211000001101,0802020G0BCACAF,Neoral 50mg capsules (Novartis Pharmaceuticals UK Ltd)
+amp,456811000001107,0802020G0BCADAD,Neoral 100mg capsules (Novartis Pharmaceuticals UK Ltd)
+amp,303511000001103,0802020G0BCAEAH,Neoral 10mg capsules (Novartis Pharmaceuticals UK Ltd)
+amp,16306511000001107,0802020G0BEAAAC,Deximune 25mg capsules (Dexcel-Pharma Ltd)
+amp,16306711000001102,0802020G0BEABAF,Deximune 50mg capsules (Dexcel-Pharma Ltd)
+amp,16306911000001100,0802020G0BEACAD,Deximune 100mg capsules (Dexcel-Pharma Ltd)
+amp,17666911000001105,0802020G0BFAAAC,Capimune 25mg capsules (Mylan)
+amp,17665611000001109,0802020G0BFABAF,Capimune 50mg capsules (Mylan)
+amp,17665811000001108,0802020G0BFACAD,Capimune 100mg capsules (Mylan)
+amp,19376911000001102,0802020G0BGAAAD,Capsorin 100mg capsules (Morningside Healthcare Ltd)
+amp,19377111000001102,0802020G0BGABAF,Capsorin 50mg capsules (Morningside Healthcare Ltd)
+amp,19377311000001100,0802020G0BGACAC,Capsorin 25mg capsules (Morningside Healthcare Ltd)
+amp,35206711000001106,0802020G0BGADAG,Capsorin 100mg/ml oral solution (Morningside Healthcare Ltd)
+amp,28335911000001108,0802020G0BHAAAC,Vanquoral 25mg capsules (Teva UK Ltd)
+amp,28337411000001106,0802020G0BHABAF,Vanquoral 50mg capsules (Teva UK Ltd)
+amp,28338911000001102,0802020G0BHACAD,Vanquoral 100mg capsules (Teva UK Ltd)
+amp,29934611000001109,0802020G0BHADAH,Vanquoral 10mg capsules (Teva UK Ltd)
+amp,18644711000001101,0802020T0AAAAAA,Tacrolimus 5mg capsules (A A H Pharmaceuticals Ltd)
+vmp,327097004,0802020T0AAAAAA,Tacrolimus 5mg capsules
+amp,18643711000001103,0802020T0AAABAB,Tacrolimus 1mg capsules (A A H Pharmaceuticals Ltd)
+vmp,327096008,0802020T0AAABAB,Tacrolimus 1mg capsules
+vmp,35914611000001105,0802020T0AAACAC,Tacrolimus 5mg/1ml solution for infusion ampoules
+amp,18643411000001109,0802020T0AAAFAF,Tacrolimus 500microgram capsules (A A H Pharmaceuticals Ltd)
+vmp,327103006,0802020T0AAAFAF,Tacrolimus 500microgram capsules
+amp,8708211000001102,0802020T0AAAGAG,Tacrolimus 2.5mg/5ml oral solution (Special Order)
+amp,8708811000001101,0802020T0AAAGAG,Tacrolimus 2.5mg/5ml oral suspension (Special Order)
+vmp,8726011000001101,0802020T0AAAGAG,Tacrolimus 2.5mg/5ml oral suspension
+vmp,8726211000001106,0802020T0AAAGAG,Tacrolimus 2.5mg/5ml oral solution
+amp,13282011000001100,0802020T0AAAKAK,Tacrolimus 2mg/5ml oral suspension (Special Order)
+vmp,13303311000001101,0802020T0AAAKAK,Tacrolimus 2mg/5ml oral suspension
+amp,8822711000001100,0802020T0AAALAL,Tacrolimus 5mg/5ml oral suspension (Special Order)
+vmp,8823011000001106,0802020T0AAALAL,Tacrolimus 5mg/5ml oral suspension
+vmp,11649611000001104,0802020T0AAAMAM,Tacrolimus 500microgram modified-release capsules
+vmp,11649511000001103,0802020T0AAANAN,Tacrolimus 1mg modified-release capsules
+vmp,11649711000001108,0802020T0AAAPAP,Tacrolimus 5mg modified-release capsules
+amp,13572011000001100,0802020T0AAARAR,Tacrolimus 500micrograms/5ml oral suspension (Special Order)
+vmp,13573411000001100,0802020T0AAARAR,Tacrolimus 500micrograms/5ml oral suspension
+amp,13645511000001108,0802020T0AAASAS,Tacrolimus 25mg/5ml oral solution (Special Order)
+amp,13645811000001106,0802020T0AAASAS,Tacrolimus 25mg/5ml oral suspension (Special Order)
+vmp,13648411000001104,0802020T0AAASAS,Tacrolimus 25mg/5ml oral solution
+vmp,13648511000001100,0802020T0AAASAS,Tacrolimus 25mg/5ml oral suspension
+vmp,15614511000001109,0802020T0AAATAT,Tacrolimus 3mg modified-release capsules
+vmp,16658211000001106,0802020T0AAAVAV,Tacrolimus 200microgram granules sachets sugar free
+vmp,16658611000001108,0802020T0AAAWAW,Tacrolimus 1mg granules sachets sugar free
+amp,17657211000001108,0802020T0AAAXAX,Tacrolimus 0.0001% mouthwash (Special Order)
+vmp,17663211000001108,0802020T0AAAXAX,Tacrolimus 0.0001% mouthwash
+amp,21303211000001104,0802020T0AABABA,Tacrolimus 800micrograms/5ml oral solution (Special Order)
+vmp,21305711000001107,0802020T0AABABA,Tacrolimus 800micrograms/5ml oral solution
+amp,23609711000001107,0802020T0AABBBB,Tacrolimus 900micrograms/5ml oral suspension (Special Order)
+vmp,23612111000001104,0802020T0AABBBB,Tacrolimus 900micrograms/5ml oral suspension
+vmp,28808811000001101,0802020T0AABCBC,Tacrolimus 1mg modified-release tablets
+vmp,28809011000001102,0802020T0AABDBD,Tacrolimus 750microgram modified-release tablets
+vmp,28808911000001106,0802020T0AABEBE,Tacrolimus 4mg modified-release tablets
+vmp,28947711000001108,0802020T0AABFBF,Tacrolimus 750microgram capsules
+vmp,28947611000001104,0802020T0AABGBG,Tacrolimus 2mg capsules
+amp,36616911000001106,0802020T0AABIBI,Tacrolimus 2mg suppositories (Special Order)
+vmp,36630711000001100,0802020T0AABIBI,Tacrolimus 2mg suppositories
+vmp,37949111000001107,0802020T0AABJBJ,Tacrolimus 2mg modified-release capsules
+amp,752211000001104,0802020T0BBAAAA,Prograf 5mg capsules (Astellas Pharma Ltd)
+amp,209911000001103,0802020T0BBABAB,Prograf 1mg capsules (Astellas Pharma Ltd)
+amp,4391311000001103,0802020T0BBACAC,Prograf 5mg/1ml solution for infusion ampoules (Astellas Pharma Ltd)
+amp,656111000001103,0802020T0BBADAF,Prograf 500microgram capsules (Astellas Pharma Ltd)
+amp,11619211000001106,0802020T0BCAAAM,Advagraf 0.5mg modified-release capsules (Astellas Pharma Ltd)
+amp,11619611000001108,0802020T0BCABAN,Advagraf 1mg modified-release capsules (Astellas Pharma Ltd)
+amp,11620011000001100,0802020T0BCACAP,Advagraf 5mg modified-release capsules (Astellas Pharma Ltd)
+amp,15603811000001106,0802020T0BCADAT,Advagraf 3mg modified-release capsules (Astellas Pharma Ltd)
+amp,16658411000001105,0802020T0BDAAAV,Modigraf 0.2mg granules sachets (Astellas Pharma Ltd)
+amp,16658811000001107,0802020T0BDABAW,Modigraf 1mg granules sachets (Astellas Pharma Ltd)
+amp,18044411000001102,0802020T0BEAAAB,Adoport 1mg capsules (Sandoz Ltd)
+amp,18044211000001101,0802020T0BEABAA,Adoport 5mg capsules (Sandoz Ltd)
+amp,18044811000001100,0802020T0BEACAF,Adoport 0.5mg capsules (Sandoz Ltd)
+amp,28800611000001103,0802020T0BEADBF,Adoport 0.75mg capsules (Sandoz Ltd)
+amp,28800911000001109,0802020T0BEAEBG,Adoport 2mg capsules (Sandoz Ltd)
+amp,18618211000001107,0802020T0BFAAAA,Vivadex 5mg capsules (Dexcel-Pharma Ltd)
+amp,18617711000001101,0802020T0BFABAB,Vivadex 1mg capsules (Dexcel-Pharma Ltd)
+amp,18618011000001102,0802020T0BFACAF,Vivadex 0.5mg capsules (Dexcel-Pharma Ltd)
+amp,19293811000001104,0802020T0BGAAAF,Tacni 0.5mg capsules (Teva UK Ltd)
+amp,19294011000001107,0802020T0BGABAB,Tacni 1mg capsules (Teva UK Ltd)
+amp,19294211000001102,0802020T0BGACAA,Tacni 5mg capsules (Teva UK Ltd)
+amp,19496811000001109,0802020T0BHAAAF,Capexion 0.5mg capsules (Mylan)
+amp,19497011000001100,0802020T0BHABAB,Capexion 1mg capsules (Mylan)
+amp,19498011000001104,0802020T0BHACAA,Capexion 5mg capsules (Mylan)
+amp,23563711000001102,0802020T0BIAAAF,Perixis 0.5mg capsules (Accord Healthcare Ltd)
+amp,23564011000001102,0802020T0BIABAB,Perixis 1mg capsules (Accord Healthcare Ltd)
+amp,23564611000001109,0802020T0BIACAA,Perixis 5mg capsules (Accord Healthcare Ltd)
+amp,28791811000001107,0802020T0BJAABC,Envarsus 1mg modified-release tablets (Chiesi Ltd)
+amp,28792111000001105,0802020T0BJABBD,Envarsus 750microgram modified-release tablets (Chiesi Ltd)
+amp,28792411000001100,0802020T0BJACBE,Envarsus 4mg modified-release tablets (Chiesi Ltd)
+amp,37939711000001107,0802020T0BKAAAM,Dailiport 0.5mg modified-release capsules (Sandoz Ltd)
+amp,37939911000001109,0802020T0BKABAN,Dailiport 1mg modified-release capsules (Sandoz Ltd)
+amp,37940211000001108,0802020T0BKACAT,Dailiport 3mg modified-release capsules (Sandoz Ltd)
+amp,37940411000001107,0802020T0BKADAP,Dailiport 5mg modified-release capsules (Sandoz Ltd)
+amp,37941011000001107,0802020T0BKAEBJ,Dailiport 2mg modified-release capsules (Sandoz Ltd)
+vmp,134640000,0802020U0AAACAC,Sirolimus 1mg/ml oral solution sugar free
+vmp,395278001,0802020U0AAADAD,Sirolimus 1mg tablets
+vmp,408155001,0802020U0AAAEAE,Sirolimus 2mg tablets
+vmp,18430811000001103,0802020U0AAAFAF,Sirolimus 500microgram tablets
+amp,4091011000001100,0802020U0BBACAC,Rapamune 1mg/ml oral solution (Pfizer Ltd)
+amp,4091411000001109,0802020U0BBADAD,Rapamune 1mg tablets (Pfizer Ltd)
+amp,4564711000001100,0802020U0BBAEAE,Rapamune 2mg tablets (Pfizer Ltd)
+amp,18401611000001102,0802020U0BBAFAF,Rapamune 0.5mg tablets (Pfizer Ltd)
+vmp,36092711000001103,0802020V0AAAAAA,Daclizumab 25mg/5ml solution for infusion vials
+amp,4780911000001109,0802020V0BBAAAA,Zenapax 25mg/5ml solution for infusion vials (Roche Products Ltd)
+vmp,10354511000001104,0802020X0AAAAAA,Antithymocyte immunoglobulin (rabbit) 25mg powder and solvent for solution for infusion vials
+amp,10354711000001109,0802020X0BBAAAA,Thymoglobuline 25mg powder and solvent for solution for infusion vials (Sanofi)
+vmp,19464711000001108,0802020Y0AAAAAA,Belatacept 250mg powder for solution for infusion vials
+amp,19463411000001100,0802020Y0BBAAAA,Nulojix 250mg powder for concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+vmp,9188011000001102,0802030E0AAAAAA,Alemtuzumab 30mg/1ml solution for infusion vials
+vmp,24565711000001104,0802030E0AAABAB,Alemtuzumab 12mg/1.2ml solution for infusion vials
+amp,9188211000001107,0802030E0BBAAAA,MabCampath 30mg/1ml concentrate for solution for infusion vials (Genzyme Therapeutics Ltd)
+amp,24561811000001109,0802030E0BCAAAB,Lemtrada 12mg/1.2ml concentrate for solution for infusion vials (Genzyme Therapeutics Ltd)
+vmp,35934811000001104,0802030F0AAAAAA,Rituximab 500mg/50ml solution for infusion vials
+vmp,35934711000001107,0802030F0AAABAB,Rituximab 100mg/10ml solution for infusion vials
+vmp,24856511000001109,0802030F0AAACAC,Rituximab 1.4g/11.7ml solution for injection vials
+amp,7697011000001108,0802030F0BBAAAA,MabThera 500mg/50ml concentrate for solution for infusion vials (Roche Products Ltd)
+amp,7695711000001104,0802030F0BBABAB,MabThera 100mg/10ml concentrate for solution for infusion vials (Roche Products Ltd)
+amp,24780211000001103,0802030F0BBACAC,MabThera 1400mg/11.7ml solution for injection vials (Roche Products Ltd)
+amp,34165611000001103,0802030F0BCAAAA,Truxima 500mg/50ml concentrate for solution for infusion vials (Napp Pharmaceuticals Ltd)
+amp,34613711000001108,0802030F0BCABAB,Truxima 100mg/10ml concentrate for solution for infusion vials (Napp Pharmaceuticals Ltd)
+amp,34634311000001103,0802030F0BDAAAB,Rixathon 100mg/10ml concentrate for solution for infusion vials (Sandoz Ltd)
+amp,34634611000001108,0802030F0BDABAA,Rixathon 500mg/50ml concentrate for solution for infusion vials (Sandoz Ltd)
+vmp,25503511000001103,0802030G0AAAAAA,Obinutuzumab 1g/40ml solution for infusion vials
+amp,25444111000001106,0802030G0BBAAAA,Gazyvaro 1000mg/40ml concentrate for solution for infusion vials (Roche Products Ltd)
+vmp,36027411000001104,0802040A0AAAAAA,Peginterferon alfa-2b 80microgram powder and solvent for solution for injection vials
+vmp,36027011000001108,0802040A0AAABAB,Peginterferon alfa-2b 100microgram powder and solvent for solution for injection vials
+vmp,36027311000001106,0802040A0AAACAC,Peginterferon alfa-2b 50microgram powder and solvent for solution for injection vials
+vmp,36027211000001103,0802040A0AAADAD,Peginterferon alfa-2b 150microgram powder and solvent for solution for injection vials
+vmp,36027111000001109,0802040A0AAAEAE,Peginterferon alfa-2b 120microgram powder and solvent for solution for injection vials
+vmp,36026911000001109,0802040A0AAAFAF,Peginterferon alfa-2a 180micrograms/0.5ml solution for injection pre-filled syringes
+vmp,36026811000001104,0802040A0AAAGAG,Peginterferon alfa-2a 135micrograms/0.5ml solution for injection pre-filled syringes
+vmp,7870111000001109,0802040A0AAAHAH,Peginterferon alfa-2b 150microgram powder and solvent for solution for injection pre-filled disposable devices
+vmp,7868111000001104,0802040A0AAAIAI,Peginterferon alfa-2b 120microgram powder and solvent for solution for injection pre-filled disposable devices
+vmp,7856811000001103,0802040A0AAAJAJ,Peginterferon alfa-2b 50microgram powder and solvent for solution for injection pre-filled disposable devices
+vmp,7866611000001106,0802040A0AAAKAK,Peginterferon alfa-2b 100microgram powder and solvent for solution for injection pre-filled disposable devices
+vmp,7863411000001103,0802040A0AAALAL,Peginterferon alfa-2b 80microgram powder and solvent for solution for injection pre-filled disposable devices
+vmp,19410411000001109,0802040A0AAAMAM,Peginterferon alfa-2a 135micrograms/0.5ml solution for injection pre-filled disposable devices
+vmp,19410511000001108,0802040A0AAANAN,Peginterferon alfa-2a 180micrograms/0.5ml solution for injection pre-filled disposable devices
+vmp,22690811000001102,0802040A0AAAPAP,Peginterferon alfa-2a 90micrograms/0.5ml solution for injection pre-filled syringes
+amp,4439411000001105,0802040A0BBAAAA,ViraferonPeg 80microgram powder and solvent for solution for injection vials (Schering-Plough Ltd)
+amp,4439911000001102,0802040A0BBABAB,ViraferonPeg 100microgram powder and solvent for solution for injection vials (Schering-Plough Ltd)
+amp,4438911000001105,0802040A0BBACAC,ViraferonPeg 50microgram powder and solvent for solution for injection vials (Schering-Plough Ltd)
+amp,4440411000001104,0802040A0BBADAD,ViraferonPeg 150microgram powder and solvent for solution for injection vials (Schering-Plough Ltd)
+amp,4438211000001101,0802040A0BBAEAE,ViraferonPeg 120microgram powder and solvent for solution for injection vials (Schering-Plough Ltd)
+amp,7870311000001106,0802040A0BBAFAH,ViraferonPeg 150microgram powder and solvent for solution for injection pre-filled pens (Merck Sharp & Dohme Ltd)
+amp,7869911000001109,0802040A0BBAGAI,ViraferonPeg 120microgram powder and solvent for solution for injection pre-filled pens (Merck Sharp & Dohme Ltd)
+amp,7858911000001107,0802040A0BBAHAJ,ViraferonPeg 50microgram powder and solvent for solution for injection pre-filled pens (Merck Sharp & Dohme Ltd)
+amp,7867511000001109,0802040A0BBAIAK,ViraferonPeg 100microgram powder and solvent for solution for injection pre-filled pens (Merck Sharp & Dohme Ltd)
+amp,7864811000001103,0802040A0BBAJAL,ViraferonPeg 80microgram powder and solvent for solution for injection pre-filled pens (Merck Sharp & Dohme Ltd)
+amp,22754411000001106,0802040A0BBAKAL,ViraferonPeg 80microgram powder and solvent for solution for injection pre-filled pens CLEARCLICK (Merck Sharp & Dohme Ltd)
+amp,22754211000001107,0802040A0BBALAJ,ViraferonPeg 50microgram powder and solvent for solution for injection pre-filled pens CLEARCLICK (Merck Sharp & Dohme Ltd)
+amp,22754611000001109,0802040A0BBAMAI,ViraferonPeg 120microgram powder and solvent for solution for injection pre-filled pens CLEARCLICK (Merck Sharp & Dohme Ltd)
+amp,22754811000001108,0802040A0BBANAH,ViraferonPeg 150microgram powder and solvent for solution for injection pre-filled pens CLEARCLICK (Merck Sharp & Dohme Ltd)
+amp,22755011000001103,0802040A0BBAPAK,ViraferonPeg 100microgram powder and solvent for solution for injection pre-filled pens CLEARCLICK (Merck Sharp & Dohme Ltd)
+amp,4439211000001106,0802040A0BCAAAA,PegIntron 80microgram powder and solvent for solution for injection vials (Schering-Plough Ltd)
+amp,4439711000001104,0802040A0BCABAB,PegIntron 100microgram powder and solvent for solution for injection vials (Schering-Plough Ltd)
+amp,4438711000001108,0802040A0BCACAC,PegIntron 50microgram powder and solvent for solution for injection vials (Schering-Plough Ltd)
+amp,4440211000001103,0802040A0BCADAD,PegIntron 150microgram powder and solvent for solution for injection vials (Schering-Plough Ltd)
+amp,4438411000001102,0802040A0BCAEAE,PegIntron 120microgram powder and solvent for solution for injection vials (Schering-Plough Ltd)
+amp,4338311000001104,0802040A0BDAAAF,Pegasys 180micrograms/0.5ml solution for injection pre-filled syringes (Roche Products Ltd)
+amp,4338011000001102,0802040A0BDABAG,Pegasys 135micrograms/0.5ml solution for injection pre-filled syringes (Roche Products Ltd)
+amp,19363311000001102,0802040A0BDACAM,Pegasys 135micrograms/0.5ml solution for injection pre-filled pens (Roche Products Ltd)
+amp,19363911000001101,0802040A0BDADAN,Pegasys 180micrograms/0.5ml solution for injection pre-filled pens (Roche Products Ltd)
+amp,22685811000001107,0802040A0BDAEAP,Pegasys 90micrograms/0.5ml solution for injection pre-filled syringes (Roche Products Ltd)
+vmp,376255008,0802040AAAAAAAA,Thalidomide 50mg capsules
+amp,13851311000001109,0802040AABBAAAA,Thalidomide Celgene 50mg capsules (Celgene Ltd)
+vmp,17236011000001100,0802040ABAAAAAA,Histamine dihydrochloride 500micrograms/0.5ml solution for injection vials
+amp,17224011000001108,0802040ABBBAAAA,Ceplene 0.5mg/0.5ml solution for injection vials (Meda Pharmaceuticals Ltd)
+vmp,16592911000001100,0802040ACAAAAAA,Canakinumab 150mg powder for solution for injection vials
+vmp,35086111000001103,0802040ACAAABAB,Canakinumab 150mg/1ml solution for injection vials
+amp,16591411000001103,0802040ACBBAAAA,Ilaris 150mg powder for solution for injection vials (Novartis Pharmaceuticals UK Ltd)
+amp,35035511000001109,0802040ACBBABAB,Ilaris 150mg/1ml solution for injection vials (Novartis Pharmaceuticals UK Ltd)
+vmp,18748011000001104,0802040ADAAAAAA,Fingolimod 500microgram capsules
+vmp,37236211000001108,0802040ADAAABAB,Fingolimod 250microgram capsules
+amp,18741011000001105,0802040ADBBAAAA,Gilenya 0.5mg capsules (Novartis Pharmaceuticals UK Ltd)
+amp,37143311000001108,0802040ADBBABAB,Gilenya 0.25mg capsules (Novartis Pharmaceuticals UK Ltd)
+vmp,703647002,0802040AIAAAAAA,Dabrafenib 50mg capsules
+vmp,703648007,0802040AIAAABAB,Dabrafenib 75mg capsules
+amp,23070511000001108,0802040AIBBAAAA,Tafinlar 50mg capsules (Novartis Pharmaceuticals UK Ltd)
+amp,23070811000001106,0802040AIBBABAB,Tafinlar 75mg capsules (Novartis Pharmaceuticals UK Ltd)
+vmp,703791008,0802040AJAAAAAA,Pomalidomide 1mg capsules
+vmp,703792001,0802040AJAAABAB,Pomalidomide 2mg capsules
+vmp,703793006,0802040AJAAACAC,Pomalidomide 3mg capsules
+vmp,703794000,0802040AJAAADAD,Pomalidomide 4mg capsules
+amp,23285111000001105,0802040AJBBAAAA,Imnovid 1mg capsules (Celgene Ltd)
+amp,23285411000001100,0802040AJBBABAB,Imnovid 2mg capsules (Celgene Ltd)
+amp,23285711000001106,0802040AJBBACAC,Imnovid 3mg capsules (Celgene Ltd)
+amp,23286011000001100,0802040AJBBADAD,Imnovid 4mg capsules (Celgene Ltd)
+vmp,24054811000001101,0802040AKAAAAAA,Dimethyl fumarate 120mg gastro-resistant capsules
+vmp,24055011000001106,0802040AKAAABAB,Dimethyl fumarate 240mg gastro-resistant capsules
+vmp,34697711000001104,0802040AKAAACAC,Dimethyl fumarate 30mg gastro-resistant tablets
+vmp,34697611000001108,0802040AKAAADAD,Dimethyl fumarate 120mg gastro-resistant tablets
+amp,24034811000001102,0802040AKBBAAAA,Tecfidera 120mg gastro-resistant capsules (Biogen Idec Ltd)
+amp,24035111000001108,0802040AKBBABAB,Tecfidera 240mg gastro-resistant capsules (Biogen Idec Ltd)
+amp,34686811000001106,0802040AKBCAAAC,Skilarence 30mg gastro-resistant tablets (Almirall Ltd)
+amp,34686311000001102,0802040AKBCABAD,Skilarence 120mg gastro-resistant tablets (Almirall Ltd)
+vmp,703788008,0802040ALAAAAAA,Teriflunomide 14mg tablets
+amp,24504611000001108,0802040ALBBAAAA,Aubagio 14mg tablets (Genzyme Therapeutics Ltd)
+vmp,25091211000001101,0802040AMAAAAAA,Siltuximab 400mg powder for solution for infusion vials
+vmp,25091011000001106,0802040AMAAABAB,Siltuximab 100mg powder for solution for infusion vials
+amp,24796311000001105,0802040AMBBAAAA,Sylvant 400mg powder for concentrate for solution for infusion vials (Janssen-Cilag Ltd)
+amp,24797411000001101,0802040AMBBABAB,Sylvant 100mg powder for concentrate for solution for infusion vials (Janssen-Cilag Ltd)
+vmp,27983511000001106,0802040APAAAAAA,Peginterferon beta-1a 63micrograms/0.5ml solution for injection pre-filled disposable devices and Peginterferon beta-1a 94micrograms/0.5ml solution for injection pre-filled disposable devices
+vmp,28049811000001100,0802040APAAABAB,Peginterferon beta-1a 125micrograms/0.5ml solution for injection pre-filled disposable devices
+amp,27953511000001104,0802040APBBAAAA,Plegridy 63micrograms/0.5ml and 94micrograms/0.5ml solution for injection pre-filled pens treatment initiation pack (Biogen Idec Ltd)
+amp,28018011000001106,0802040APBBABAB,Plegridy 125micrograms/0.5ml solution for injection pre-filled pens (Biogen Idec Ltd)
+vmp,353865002,0802040AQAAAAAA,Aldesleukin 18million unit powder for solution for injection vials
+amp,4745311000001105,0802040AQBBAAAA,Proleukin 18million unit powder for solution for injection vials (Clinigen Healthcare Ltd)
+vmp,29889211000001106,0802040ATAAAAAA,Nivolumab 40mg/4ml solution for infusion vials
+vmp,29889111000001100,0802040ATAAABAB,Nivolumab 100mg/10ml solution for infusion vials
+vmp,35541811000001105,0802040ATAAACAC,Nivolumab 240mg/24ml solution for infusion vials
+amp,29887311000001108,0802040ATBBAAAA,Opdivo 40mg/4ml concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,29887611000001103,0802040ATBBABAB,Opdivo 100mg/10ml concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,35541611000001106,0802040ATBBACAC,Opdivo 240mg/24ml concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,30089411000001109,0802040ATBCAAAB,Nivolumab BMS 100mg/10ml concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+amp,30089111000001104,0802040ATBCABAA,Nivolumab BMS 40mg/4ml concentrate for solution for infusion vials (Bristol-Myers Squibb Pharmaceuticals Ltd)
+vmp,34796711000001108,0802040AYAAAAAA,Cladribine 10mg tablets
+amp,34791011000001104,0802040AYBBAAAA,Mavenclad 10mg tablets (Merck Serono Ltd)
+vmp,33760311000001105,0802040AZAAAAAA,Daclizumab 150mg/1ml solution for injection pre-filled disposable devices
+amp,33756811000001106,0802040AZBBAAAA,Zinbryta 150mg/1ml solution for injection pre-filled pens (Biogen Idec Ltd)
+vmp,35040811000001100,0802040BAAAAAAA,Tivozanib 1340microgram capsules
+vmp,35750511000001103,0802040BAAAABAB,Tivozanib 890microgram capsules
+amp,35040411000001102,0802040BABBAAAA,Fotivda 1340microgram capsules (EUSA Pharma Ltd)
+amp,35735711000001102,0802040BABBABAB,Fotivda 890microgram capsules (EUSA Pharma Ltd)
+vmp,4266211000001107,0802040J0AAAGAG,Interferon alfa-2b 3million unit powder and solvent for solution for injection vials
+vmp,4515711000001100,0802040J0AAAHAH,Interferon alfa-2b 10million unit powder and solvent for solution for injection vials
+vmp,36049011000001101,0802040J0AAAKAK,Interferon alfa-2b 1million unit powder and solvent for solution for injection vials
+vmp,4452911000001108,0802040J0AAAUAU,Interferon alfa-2b 18million units/3ml solution for injection vials
+vmp,4225711000001102,0802040J0AAAVAV,Interferon alfa-2a 3million units/0.5ml solution for injection pre-filled syringes
+vmp,4427911000001106,0802040J0AAAWAW,Interferon alfa-2a 4.5million units/0.5ml solution for injection pre-filled syringes
+vmp,4225511000001107,0802040J0AAAXAX,Interferon alfa-2a 6million units/0.5ml solution for injection pre-filled syringes
+vmp,4225611000001106,0802040J0AAAYAY,Interferon alfa-2a 9million units/0.5ml solution for injection pre-filled syringes
+vmp,4263111000001106,0802040J0AABBBB,Interferon alfa-2b 18million units/1.2ml solution for injection pre-filled disposable devices
+vmp,4263211000001100,0802040J0AABCBC,Interferon alfa-2b 30million units/1.2ml solution for injection pre-filled disposable devices
+vmp,4562111000001109,0802040J0AABDBD,Interferon alfa-2b 60million units/1.2ml solution for injection pre-filled disposable devices
+vmp,327212001,0802040J0AABEBE,Interferon alfa-2b 25million units/2.5ml solution for injection multidose vials
+vmp,4266111000001101,0802040J0AABFBF,Interferon alfa-2a 18million units/0.6ml solution for injection cartridges
+vmp,7983811000001106,0802040J0AABGBG,Interferon alfa-2a 18million units/0.5ml solution for injection pre-filled syringes
+amp,4265811000001100,0802040J0BBAAAG,IntronA 3million unit powder and solvent for solution for injection vials (Schering-Plough Ltd)
+amp,4511911000001100,0802040J0BBACAH,IntronA 10million unit powder and solvent for solution for injection vials (Merck Sharp & Dohme Ltd)
+amp,4580611000001104,0802040J0BBAEAK,IntronA 1million unit powder and solvent for solution for injection vials (Schering-Plough Ltd)
+amp,4262311000001103,0802040J0BBAIBB,IntronA 18million units/1.2ml solution for injection multidose pens (Merck Sharp & Dohme Ltd)
+amp,4262011000001101,0802040J0BBAJBC,IntronA 30million units/1.2ml solution for injection multidose pens (Merck Sharp & Dohme Ltd)
+amp,4520311000001101,0802040J0BBAKBD,IntronA 60million units/1.2ml solution for injection multidose pens (Merck Sharp & Dohme Ltd)
+amp,5235211000001101,0802040J0BBALBE,IntronA 25million units/2.5ml solution for injection multidose vials (Merck Sharp & Dohme Ltd)
+amp,4224711000001101,0802040J0BCAJAV,Roferon-A 3million units/0.5ml solution for injection pre-filled syringes (Roche Products Ltd)
+amp,4400311000001102,0802040J0BCAKAW,Roferon-A 4.5million units/0.5ml solution for injection pre-filled syringes (Roche Products Ltd)
+amp,4224411000001107,0802040J0BCALAX,Roferon-A 6million units/0.5ml solution for injection pre-filled syringes (Roche Products Ltd)
+amp,4224111000001102,0802040J0BCAMAY,Roferon-A 9million units/0.5ml solution for injection pre-filled syringes (Roche Products Ltd)
+amp,4264911000001106,0802040J0BCAPBF,Roferon-A 18million units/0.6ml solution for injection cartridges (Roche Products Ltd)
+amp,7984011000001103,0802040J0BCAQBG,Roferon-A 18million units/0.5ml solution for injection pre-filled syringes (Roche Products Ltd)
+amp,4440711000001105,0802040J0BFACAU,Viraferon 18million units/3ml solution for injection multidose vials (Schering-Plough Ltd)
+amp,4262511000001109,0802040J0BFADBB,Viraferon 18million units/1.2ml solution for injection multidose pens (Schering-Plough Ltd)
+amp,4261811000001103,0802040J0BFAEBC,Viraferon 30million units/1.2ml solution for injection multidose pens (Schering-Plough Ltd)
+vmp,4515611000001109,0802040M0AAADAD,Interferon beta-1b 300microgram powder and solvent for solution for injection vials
+vmp,4839511000001102,0802040M0AAAEAE,Interferon beta-1a 30microgram powder and solvent for solution for injection vials
+vmp,327214000,0802040M0AAAFAF,Interferon beta-1a 6million units/0.5ml solution for injection pre-filled syringes
+vmp,327217007,0802040M0AAAGAG,Interferon beta-1a 12million units/0.5ml solution for injection pre-filled syringes
+vmp,11416711000001106,0802040M0AAAIAI,Interferon beta-1a 6million units/0.5ml solution for injection pre-filled syringes and Interferon beta-1a 2.4million units/0.2ml solution for injection pre-filled syringes
+vmp,16603811000001109,0802040M0AAAJAJ,Interferon beta-1a 6million units/0.5ml solution for injection 1.5ml cartridges
+vmp,16603711000001101,0802040M0AAAKAK,Interferon beta-1a 12million units/0.5ml solution for injection 1.5ml cartridges
+vmp,16637211000001108,0802040M0AAALAL,Generic Rebif initiation pack
+vmp,18653111000001101,0802040M0AAAMAM,Interferon beta-1a 6million units/0.5ml solution for injection pre-filled disposable devices
+vmp,18652811000001100,0802040M0AAANAN,Interferon beta-1a 12million units/0.5ml solution for injection pre-filled disposable devices
+vmp,18653011000001102,0802040M0AAAQAQ,Interferon beta-1a 6million units/0.5ml solution for injection pre-filled devices and Interferon beta-1a 2.4million units/0.2ml solution for injection pre-filled devices
+amp,4405111000001107,0802040M0BBADAF,Rebif 22micrograms/0.5ml (6million units) solution for injection pre-filled syringes (Merck Serono Ltd)
+amp,4403411000001101,0802040M0BBAEAG,Rebif 44micrograms/0.5ml (12million units) solution for injection pre-filled syringes (Merck Serono Ltd)
+amp,11413311000001103,0802040M0BBAFAI,Rebif 22micrograms/0.5ml (6million units) solution for injection pre-filled syringes and Rebif 8.8micrograms/0.2ml (2.4million units) solution for injection pre-filled syringes (Merck Serono Ltd)
+amp,16602911000001106,0802040M0BBAGAJ,Rebif 22micrograms/0.5ml (6million units) solution for injection 1.5ml cartridges (Merck Serono Ltd)
+amp,16603211000001108,0802040M0BBAHAK,Rebif 44micrograms/0.5ml (12million units) solution for injection 1.5ml cartridges (Merck Serono Ltd)
+amp,16636811000001107,0802040M0BBAIAL,Rebif 8.8micrograms/0.1ml (2.4million units) with 22micrograms/0.25ml (6million units) solution for injection 1.5ml cartridges initiation pack (Merck Serono Ltd)
+amp,18650711000001109,0802040M0BBAJAM,Rebif 22micrograms/0.5ml (6million units) solution for injection pre-filled pens (Merck Serono Ltd)
+amp,18651011000001103,0802040M0BBAKAN,Rebif 44micrograms/0.5ml (12million units) solution for injection pre-filled pens (Merck Serono Ltd)
+amp,18652011000001106,0802040M0BBALAQ,Rebif 22micrograms/0.5ml (6million units) solution for injection pre-filled pens and Rebif 8.8micrograms/0.2ml (2.4million units) solution for injection pre-filled pens (Merck Serono Ltd)
+amp,4512211000001102,0802040M0BCAAAD,Betaferon 300microgram powder and solvent for solution for injection vials (Bayer Plc)
+amp,4835911000001107,0802040M0BDAAAE,Avonex 30microgram powder and solvent for solution for injection vials (Biogen Idec Ltd)
+amp,5183911000001104,0802040M0BDABAH,Avonex 30micrograms/0.5ml (6million units) solution for injection pre-filled syringes (Biogen Idec Ltd)
+amp,19376711000001104,0802040M0BDACAM,Avonex 30micrograms/0.5ml (6million units) solution for injection pre-filled pens (Biogen Idec Ltd)
+amp,15380911000001104,0802040M0BEAAAD,Extavia 300microgram powder and solvent for solution for injection vials (Novartis Pharmaceuticals UK Ltd)
+vmp,400446007,0802040U0AAAAAA,Glatiramer acetate 20mg powder and solvent for solution for injection vials
+vmp,36051411000001106,0802040U0AAABAB,Glatiramer acetate 20mg/1ml solution for injection pre-filled syringes
+vmp,29828011000001100,0802040U0AAACAC,Glatiramer acetate 40mg/1ml solution for injection pre-filled syringes
+amp,4880311000001105,0802040U0BBAAAA,Copaxone 20mg powder and solvent for solution for injection vials (Teva UK Ltd)
+amp,8261711000001107,0802040U0BBABAB,Copaxone 20mg/1ml solution for injection pre-filled syringes (Teva UK Ltd)
+amp,29821511000001103,0802040U0BBACAC,Copaxone 40mg/1ml solution for injection pre-filled syringes (Teva UK Ltd)
+amp,34807711000001106,0802040U0BCAAAB,Brabio 20mg/1ml solution for injection pre-filled syringes (Mylan)
+amp,35041211000001107,0802040U0BCABAC,Brabio 40mg/1ml solution for injection pre-filled syringes (Mylan)
+vmp,36030311000001108,0802040W0AAAAAA,Natalizumab 300mg/15ml solution for infusion vials
+amp,10626311000001106,0802040W0BBAAAA,Tysabri 300mg/15ml concentrate for solution for infusion vials (Biogen Idec Ltd)
+vmp,8068811000001103,0802040X0AAAAAA,TICE strain Bacillus of Calmette-Guerin 12.5mg powder for reconstitution for instillation vials
+vmp,8068411000001100,0802040X0AAABAB,Connaught strain Bacillus of Calmette-Guerin 81mg powder for reconstitution for instillation vials
+amp,8069011000001104,0802040X0BBAAAA,OncoTICE 12.5mg powder for reconstitution for instillation vials (Merck Sharp & Dohme Ltd)
+amp,8068611000001102,0802040X0BCAAAB,ImmuCyst 81mg powder for reconstitution for instillation vials (Alliance Pharmaceuticals Ltd)
+vmp,422330004,0802040Y0AAAAAA,Lenalidomide 5mg capsules
+vmp,420966002,0802040Y0AAABAB,Lenalidomide 10mg capsules
+vmp,11762911000001102,0802040Y0AAACAC,Lenalidomide 15mg capsules
+vmp,11763011000001105,0802040Y0AAADAD,Lenalidomide 25mg capsules
+vmp,23344511000001104,0802040Y0AAAEAE,Lenalidomide 2.5mg capsules
+vmp,29903811000001104,0802040Y0AAAFAF,Lenalidomide 7.5mg capsules
+vmp,29903711000001107,0802040Y0AAAGAG,Lenalidomide 20mg capsules
+amp,11755211000001108,0802040Y0BBAAAA,Revlimid 5mg capsules (Celgene Ltd)
+amp,11755711000001101,0802040Y0BBABAB,Revlimid 10mg capsules (Celgene Ltd)
+amp,11756011000001107,0802040Y0BBACAC,Revlimid 15mg capsules (Celgene Ltd)
+amp,11756511000001104,0802040Y0BBADAD,Revlimid 25mg capsules (Celgene Ltd)
+amp,23307411000001100,0802040Y0BBAEAE,Revlimid 2.5mg capsules (Celgene Ltd)
+amp,29894911000001104,0802040Y0BBAFAF,Revlimid 7.5mg capsules (Celgene Ltd)
+amp,29895411000001108,0802040Y0BBAGAG,Revlimid 20mg capsules (Celgene Ltd)
+vmp,4377811000001106,0802040Z0AAAAAA,Interferon gamma-1b (recombinant human) 100micrograms/0.5ml solution for injection vials
+amp,4372611000001109,0802040Z0BBAAAA,Immukin 100micrograms/0.5ml solution for injection vials (Clinigen Healthcare Ltd)
