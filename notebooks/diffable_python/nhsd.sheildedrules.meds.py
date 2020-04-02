@@ -42,7 +42,8 @@ WITH bnf_codes AS (
   bnf_code LIKE '0303030B0%' OR #BNF roflumilast 
   bnf_code LIKE '030102%') #BNF antimuscarinin brochodilators
   AND
-  bnf_code NOT LIKE '0802020T0%XAX' #BNF tacrolimus mouthwash
+  (bnf_code NOT LIKE '0802020T0%XAX' #BNF tacrolimus mouthwash
+  bnf_code NOT LIKE '0301011R0%')
    )
 SELECT "vmp" AS type, id, bnf_code, nm
 FROM dmd.vmp
